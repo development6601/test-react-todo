@@ -1,4 +1,4 @@
-import { Todo } from '../../types/Todo';
+import type { Todo } from '../../types';
 import { TodoItem } from '../TodoItem/TodoItem';
 import './TodoList.css';
 

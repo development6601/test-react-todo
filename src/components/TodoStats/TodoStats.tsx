@@ -1,4 +1,4 @@
-import { TodoStats as TodoStatsType } from '../../types/Todo';
+import type { TodoStats as TodoStatsType } from '../../types';
 import './TodoStats.css';
 
 interface TodoStatsProps {
