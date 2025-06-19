@@ -1,0 +1,104 @@
+.todo-app {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 2rem 1rem;
+}
+
+.todo-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.todo-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  color: white;
+}
+
+.todo-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 0 0 1rem 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.todo-subtitle {
+  font-size: 1.125rem;
+  margin: 0;
+  opacity: 0.9;
+  font-weight: 400;
+}
+
+.welcome-section {
+  background-color: white;
+  border-radius: 1rem;
+  padding: 3rem;
+  margin-top: 2rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.welcome-content {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.welcome-content h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 1.5rem 0;
+  color: #1f2937;
+}
+
+.welcome-content p {
+  font-size: 1.125rem;
+  color: #6b7280;
+  margin: 0 0 1.5rem 0;
+  line-height: 1.6;
+}
+
+.feature-list {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto 2rem auto;
+  padding: 0;
+  list-style: none;
+}
+
+.feature-list li {
+  padding: 0.5rem 0;
+  font-size: 1rem;
+  color: #374151;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.feature-list li:last-child {
+  border-bottom: none;
+}
+
+@media (max-width: 768px) {
+  .todo-app {
+    padding: 1rem 0.5rem;
+  }
+  
+  .todo-title {
+    font-size: 2rem;
+  }
+  
+  .todo-subtitle {
+    font-size: 1rem;
+  }
+  
+  .welcome-section {
+    padding: 2rem 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .welcome-content h2 {
+    font-size: 1.5rem;
+  }
+  
+  .welcome-content p {
+    font-size: 1rem;
+  }
+} 
