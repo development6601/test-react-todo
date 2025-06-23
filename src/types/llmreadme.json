@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "types",
+      "path": "src\\types",
+      "purpose": "The directory `src\\types` stores type definitions for a software project.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}

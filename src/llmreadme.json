@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "src",
+      "path": "src",
+      "purpose": "The `src` directory contains the source code for a React todo application, including components, hooks, types, utilities, and asset files.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "assets",
+    "relativePath": "assets",
+    "sourcedPurposeFromChild": "The directory `src\\assets` stores asset files used by the project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "components",
+    "relativePath": "components",
+    "sourcedPurposeFromChild": "The `src\\components` directory houses the React component source code for a todo application, including input, item display, filtering, and statistics functionalities.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "hooks",
+    "relativePath": "hooks",
+    "sourcedPurposeFromChild": "The `src\\hooks` directory stores custom React hooks for the project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "types",
+    "relativePath": "types",
+    "sourcedPurposeFromChild": "The directory `src\\types` stores type definitions for a software project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "utils",
+    "relativePath": "utils",
+    "sourcedPurposeFromChild": "The `src\\utils` directory contains utility functions and resources used by the project.",
+    "keyElementsFromChild": []
+  }
+]
+  }
+}

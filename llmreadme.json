@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "repo-bfc1f098-9c9b-465e-aaa9-699467451ba7-1750682692950",
+      "path": ".",
+      "purpose": "This temporary directory stores intermediate build artifacts, including publicly accessible files and the source code for a React todo application.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "public",
+    "relativePath": "public",
+    "sourcedPurposeFromChild": "The `public` directory temporarily stores publicly accessible files for a project, likely during a build or deployment process.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "src",
+    "relativePath": "src",
+    "sourcedPurposeFromChild": "The `src` directory contains the source code for a React todo application, including components, hooks, types, utilities, and asset files.",
+    "keyElementsFromChild": []
+  }
+]
+  }
+}

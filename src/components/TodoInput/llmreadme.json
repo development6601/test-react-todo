@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "TodoInput",
+      "path": "src\\components\\TodoInput",
+      "purpose": "The `TodoInput` directory contains the source code for the components responsible for user input within a todo list application.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}

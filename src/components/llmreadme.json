@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "components",
+      "path": "src\\components",
+      "purpose": "The `src\\components` directory houses the React component source code for a todo application, including input, item display, filtering, and statistics functionalities.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "TodoApp",
+    "relativePath": "TodoApp",
+    "sourcedPurposeFromChild": "The `TodoApp` directory contains the source code for the components of a Todo application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoFilters",
+    "relativePath": "TodoFilters",
+    "sourcedPurposeFromChild": "The `TodoFilters` directory contains the source code for components responsible for filtering todo items within a React application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoInput",
+    "relativePath": "TodoInput",
+    "sourcedPurposeFromChild": "The `TodoInput` directory contains the source code for the components responsible for user input within a todo list application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoItem",
+    "relativePath": "TodoItem",
+    "sourcedPurposeFromChild": "The `TodoItem` directory contains the source code for the components related to individual todo items within a larger application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoList",
+    "relativePath": "TodoList",
+    "sourcedPurposeFromChild": "The `src\\components\\TodoList` directory contains the source code for the \"TodoList\" component within a larger software project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoStats",
+    "relativePath": "TodoStats",
+    "sourcedPurposeFromChild": "The `TodoStats` directory contains the source code components responsible for displaying statistics related to a to-do list application.",
+    "keyElementsFromChild": []
+  }
+]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "TodoFilters",
+      "path": "src\\components\\TodoFilters",
+      "purpose": "The `TodoFilters` directory contains the source code for components responsible for filtering todo items within a React application.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}
