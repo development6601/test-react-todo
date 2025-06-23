@@ -1,10 +1,10 @@
 # 📁 TodoItem
 
-> The `src\components\TodoItem` directory contains the source code for the individual "TodoItem" component within a larger application.
+> The `src\components\TodoItem` directory houses the source code for the individual TodoItem component within a larger application.
 
 ## 📋 Directory Overview
 
-The `src\components\TodoItem` directory contains the source code for the individual "TodoItem" component within a larger application.
+The `src\components\TodoItem` directory houses the source code for the individual TodoItem component within a larger application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

@@ -1,10 +1,10 @@
 # 📁 TodoStats
 
-> The `TodoStats` directory contains the source code for the components responsible for displaying statistics related to a to-do list application.
+> The `TodoStats` directory contains the source code components for a "Todo" application's statistics feature.
 
 ## 📋 Directory Overview
 
-The `TodoStats` directory contains the source code for the components responsible for displaying statistics related to a to-do list application.
+The `TodoStats` directory contains the source code components for a "Todo" application's statistics feature.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

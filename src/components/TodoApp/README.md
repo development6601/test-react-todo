@@ -1,10 +1,10 @@
 # 📁 TodoApp
 
-> The `TodoApp` directory contains the source code components for a Todo application.
+> The `TodoApp` directory contains the source code components for a "Todo App" application within a temporary repository.
 
 ## 📋 Directory Overview
 
-The `TodoApp` directory contains the source code components for a Todo application.
+The `TodoApp` directory contains the source code components for a "Todo App" application within a temporary repository.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

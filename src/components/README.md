@@ -1,10 +1,10 @@
 # 📁 components
 
-> This directory, `src\components`, houses reusable UI components for a todo application, including input, item display, filtering, and statistics.
+> This directory, `src\components`, houses the source code for various components of a "Todo" application, including input, individual items, lists, filters, and statistics.
 
 ## 📋 Directory Overview
 
-This directory, `src\components`, houses reusable UI components for a todo application, including input, item display, filtering, and statistics.
+This directory, `src\components`, houses the source code for various components of a "Todo" application, including input, individual items, lists, filters, and statistics.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
@@ -25,22 +25,22 @@ components/
 ## 📁 Subdirectories
 
 ### `TodoApp/`
-The `TodoApp` directory contains the source code components for a Todo application.
+The `TodoApp` directory contains the source code components for a "Todo App" application within a temporary repository.
 
 ### `TodoFilters/`
-The `TodoFilters` directory contains the source code for the components responsible for filtering todo items within a larger application.
+The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a "Todo" application.
 
 ### `TodoInput/`
-The `TodoInput` directory contains the source code for the components responsible for user input within a todo application.
+The `TodoInput` directory contains the source code for the input component of a "Todo" application within a temporary repository.
 
 ### `TodoItem/`
-The `src\components\TodoItem` directory contains the source code for the individual "TodoItem" component within a larger application.
+The `src\components\TodoItem` directory houses the source code for the individual TodoItem component within a larger application.
 
 ### `TodoList/`
 The `TodoList` directory contains the source code components for a to-do list feature within a larger software project.
 
 ### `TodoStats/`
-The `TodoStats` directory contains the source code for the components responsible for displaying statistics related to a to-do list application.
+The `TodoStats` directory contains the source code components for a "Todo" application's statistics feature.
 
 ---
 
