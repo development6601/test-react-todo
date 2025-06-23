@@ -1,10 +1,10 @@
 # 📁 TodoList
 
-> The `src\components\TodoList` directory contains the source code for the "TodoList" component within a larger software project.
+> The `TodoList` directory contains the source code for the components related to the Todo List feature within a larger software project.
 
 ## 📋 Directory Overview
 
-The `src\components\TodoList` directory contains the source code for the "TodoList" component within a larger software project.
+The `TodoList` directory contains the source code for the components related to the Todo List feature within a larger software project.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

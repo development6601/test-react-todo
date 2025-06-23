@@ -1,10 +1,10 @@
 # 📁 utils
 
-> The `src\utils` directory contains utility functions and resources used by the project.
+> The `src\utils` directory contains utility functions and resources used by the project residing in the temporary repository `repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431`.
 
 ## 📋 Directory Overview
 
-The `src\utils` directory contains utility functions and resources used by the project.
+The `src\utils` directory contains utility functions and resources used by the project residing in the temporary repository `repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431`.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

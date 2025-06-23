@@ -1,10 +1,10 @@
 # 📁 types
 
-> The directory `src\types` stores type definitions for a software project.
+> The `src\types` directory stores the type definitions for a project's source code.
 
 ## 📋 Directory Overview
 
-The directory `src\types` stores type definitions for a software project.
+The `src\types` directory stores the type definitions for a project's source code.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

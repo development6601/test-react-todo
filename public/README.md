@@ -1,10 +1,10 @@
 # 📁 public
 
-> The `public` directory temporarily stores publicly accessible files for a project, likely during a build or deployment process.
+> The `public` directory temporarily stores publicly accessible files related to a project (likely a web application or similar).
 
 ## 📋 Directory Overview
 
-The `public` directory temporarily stores publicly accessible files for a project, likely during a build or deployment process.
+The `public` directory temporarily stores publicly accessible files related to a project (likely a web application or similar).
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

@@ -6,7 +6,7 @@
     "directory": {
       "name": "TodoInput",
       "path": "src\\components\\TodoInput",
-      "purpose": "The `TodoInput` directory contains the source code for the components responsible for user input within a todo list application.",
+      "purpose": "The `TodoInput` directory contains the source code for the components responsible for user input within a todo application.",
       "ownKeyElements": []
     },
     "files": [

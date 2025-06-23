@@ -1,10 +1,10 @@
 # 📁 assets
 
-> The directory `src\assets` stores asset files used by the project.
+> The `src\assets` directory stores the asset files used by the project's source code.
 
 ## 📋 Directory Overview
 
-The directory `src\assets` stores asset files used by the project.
+The `src\assets` directory stores the asset files used by the project's source code.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
