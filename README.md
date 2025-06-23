@@ -1,6 +1,6 @@
-# 🚀 repo-4cb53a3d-04d8-4264-94d0-f5cee15cfa45-1750679621901
+# 🚀 repo-a0c664eb-7c3a-4fc3-9530-5370e1ee91ed-1750680376640
 
-> The directory . is a temporary repository for project files.
+> This temporary directory stores publicly accessible files and the source code for a to-do application.
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
@@ -20,13 +20,14 @@
 
 ## 📖 Description
 
-The directory . is a temporary repository for project files.
+This temporary directory stores publicly accessible files and the source code for a to-do application.
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
 
@@ -37,10 +38,10 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-4cb53a3d-04d8-4264-94d0-f5cee15cfa45-1750679621901
+cd repo-a0c664eb-7c3a-4fc3-9530-5370e1ee91ed-1750680376640
 
 # Run the main application
-node index.js
+node src/index.js
 ```
 
 ## 📦 Installation
@@ -65,7 +66,7 @@ npm install
 
 ```javascript
 // Import the main module
-const main = require('./index.js');
+const main = require('./src/index.js');
 
 // Run the application
 main();
@@ -74,13 +75,17 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-4cb53a3d-04d8-4264-94d0-f5cee15cfa45-1750679621901/
+repo-a0c664eb-7c3a-4fc3-9530-5370e1ee91ed-1750680376640/
+├── 📁 public/
+└── 📁 src/ # Main source code
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
+- **`public/`** - This directory, `public`, temporarily stores publicly accessible files for a project
+- **`src/`** - The `src` directory contains the source code for a to-do application, including components, custom hooks, data types, utility functions, and asset files
 
 ## ⚙️ Configuration
 
@@ -97,6 +102,8 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
+- [`public/` API Documentation](./public/README.md)
+- [`src/` API Documentation](./src/README.md)
 
 ## 🤝 Contributing
 
@@ -108,7 +115,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-4cb53a3d-04d8-4264-94d0-f5cee15cfa45-1750679621901
+   cd repo-a0c664eb-7c3a-4fc3-9530-5370e1ee91ed-1750680376640
    ```
 3. **Create a feature branch**:
    ```bash
