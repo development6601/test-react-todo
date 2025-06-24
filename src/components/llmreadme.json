@@ -21,7 +21,7 @@
   {
     "name": "TodoFilters",
     "relativePath": "TodoFilters",
-    "sourcedPurposeFromChild": "The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a \"Todo\" application.",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of TodoFilters",
     "keyElementsFromChild": []
   },
   {
@@ -33,7 +33,7 @@
   {
     "name": "TodoItem",
     "relativePath": "TodoItem",
-    "sourcedPurposeFromChild": "The `TodoItem` directory contains the source code components for a \"TodoItem\" element within a larger software project, likely a to-do list application.",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of TodoItem",
     "keyElementsFromChild": []
   },
   {
