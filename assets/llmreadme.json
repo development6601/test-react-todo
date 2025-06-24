@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "assets",
+      "path": "assets",
+      "purpose": "The `assets` directory stores temporary assets used by a project, likely during a build or development process.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}

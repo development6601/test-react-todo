@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "hooks",
+      "path": "hooks",
+      "purpose": "This directory, `hooks`, stores Git hooks for a temporary repository.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}
