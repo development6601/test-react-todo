@@ -1,6 +1,6 @@
-# 🚀 repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768
+# 🚀 repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
 
-> Enhanced directory analysis of repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768
+> Enhanced directory analysis of repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
@@ -20,14 +20,13 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768
+Enhanced directory analysis of repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files, and utility functions.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
-- 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
 
@@ -38,7 +37,7 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768
+cd repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
 
 # Run the main application
 node index.js
@@ -75,15 +74,15 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768/
-└── 📁 utils/ # Helper functions and utilities
+repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588/
+└── 📁 types/
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
-- **`utils/`** - The `utils` directory contains utility files supporting the temporary repository `repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768`
+- **`types/`** - Enhanced directory analysis of types
 
 ## ⚙️ Configuration
 
@@ -100,7 +99,7 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
-- [`utils/` API Documentation](./utils/README.md)
+- [`types/` API Documentation](./types/README.md)
 
 ## 🤝 Contributing
 
@@ -112,7 +111,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768
+   cd repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
    ```
 3. **Create a feature branch**:
    ```bash
