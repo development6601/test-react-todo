@@ -1,10 +1,10 @@
 # 📁 utils
 
-> Enhanced directory analysis of utils
+> The `src\utils` directory contains utility functions and resources for a temporary project repository.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of utils
+The `src\utils` directory contains utility functions and resources for a temporary project repository.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

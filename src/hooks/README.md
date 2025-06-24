@@ -1,10 +1,10 @@
 # 📁 hooks
 
-> Enhanced directory analysis of hooks
+> The `src\hooks` directory stores the React hook source code for a temporary project repository.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of hooks
+The `src\hooks` directory stores the React hook source code for a temporary project repository.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

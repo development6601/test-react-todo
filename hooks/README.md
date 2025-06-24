@@ -1,10 +1,10 @@
 # 📁 hooks
 
-> The `hooks` directory contains scripts or programs executed at specific points in a Git repository's lifecycle (e.g., before/after commit, push, etc.),  managing automated tasks within the `repo-37ec441e-28fc-45a3-9300-4884708b9ac4-1750748469460` project.
+> This directory, `hooks`, stores Git hooks for a temporary repository.
 
 ## 📋 Directory Overview
 
-The `hooks` directory contains scripts or programs executed at specific points in a Git repository's lifecycle (e.g., before/after commit, push, etc.),  managing automated tasks within the `repo-37ec441e-28fc-45a3-9300-4884708b9ac4-1750748469460` project.
+This directory, `hooks`, stores Git hooks for a temporary repository.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

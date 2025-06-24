@@ -6,7 +6,7 @@
     "directory": {
       "name": "hooks",
       "path": "src\\hooks",
-      "purpose": "Enhanced directory analysis of hooks",
+      "purpose": "The `src\\hooks` directory stores the React hook source code for a temporary project repository.",
       "ownKeyElements": []
     },
     "files": [

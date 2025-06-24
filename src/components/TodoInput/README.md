@@ -1,10 +1,10 @@
 # 📁 TodoInput
 
-> The `TodoInput` directory contains the source code for the components responsible for user input within a "Todo" application.
+> The `TodoInput` directory contains the source code for the components responsible for user input within a todo application.
 
 ## 📋 Directory Overview
 
-The `TodoInput` directory contains the source code for the components responsible for user input within a "Todo" application.
+The `TodoInput` directory contains the source code for the components responsible for user input within a todo application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

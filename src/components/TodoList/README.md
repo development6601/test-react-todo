@@ -1,10 +1,10 @@
 # 📁 TodoList
 
-> The `TodoList` directory contains the source code for the components related to the "TodoList" feature within a larger software project.
+> The `TodoList` directory in `C:\Users\PC\AppData\Local\Temp\repo-00abdf12-4ff6-4983-93d6-e3602fa68ef1-1750748544285\src\components` contains the source code for a "TodoList" component within a larger software project.
 
 ## 📋 Directory Overview
 
-The `TodoList` directory contains the source code for the components related to the "TodoList" feature within a larger software project.
+The `TodoList` directory in `C:\Users\PC\AppData\Local\Temp\repo-00abdf12-4ff6-4983-93d6-e3602fa68ef1-1750748544285\src\components` contains the source code for a "TodoList" component within a larger software project.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

@@ -1,10 +1,10 @@
 # 📁 TodoItem
 
-> The `TodoItem` directory contains the source code for the components related to individual to-do items within a larger application.
+> The `TodoItem` directory contains the source code for the components related to individual todo items within a larger application.
 
 ## 📋 Directory Overview
 
-The `TodoItem` directory contains the source code for the components related to individual to-do items within a larger application.
+The `TodoItem` directory contains the source code for the components related to individual todo items within a larger application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
