@@ -4,24 +4,42 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "repo-3de5b94c-e6a4-4118-9bb2-b81430dc07bc-1750682493309",
+      "name": "repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350",
       "path": ".",
-      "purpose": "This directory temporarily stores the source code and public files for a temporary \"Todo\" application project.",
+      "purpose": "Enhanced directory analysis of repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350",
       "ownKeyElements": []
     },
     "files": [
     ],
     "subdirectories": [
   {
+    "name": "hooks",
+    "relativePath": "hooks",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of hooks",
+    "keyElementsFromChild": []
+  },
+  {
     "name": "public",
     "relativePath": "public",
-    "sourcedPurposeFromChild": "This directory, `public`, temporarily stores publicly accessible files for a project.",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of public",
     "keyElementsFromChild": []
   },
   {
     "name": "src",
     "relativePath": "src",
-    "sourcedPurposeFromChild": "The `src` directory contains the source code, assets, types, utility functions, and custom React hooks for a temporary \"Todo\" application project.",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of src",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "types",
+    "relativePath": "types",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of types",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "utils",
+    "relativePath": "utils",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of utils",
     "keyElementsFromChild": []
   }
 ]

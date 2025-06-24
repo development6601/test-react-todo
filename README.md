@@ -1,11 +1,11 @@
-# 🚀 repo-3de5b94c-e6a4-4118-9bb2-b81430dc07bc-1750682493309
+# 🚀 repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350
 
-> This directory temporarily stores the source code and public files for a temporary "Todo" application project.
+> Enhanced directory analysis of repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-6/23/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-6/24/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,14 +20,15 @@
 
 ## 📖 Description
 
-This directory temporarily stores the source code and public files for a temporary "Todo" application project.
+Enhanced directory analysis of repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
 - 📦 **Source Code Organization** - Clean source code structure in `src/` directory
+- 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
 
@@ -38,7 +39,7 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-3de5b94c-e6a4-4118-9bb2-b81430dc07bc-1750682493309
+cd repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350
 
 # Run the main application
 node src/index.js
@@ -75,17 +76,23 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-3de5b94c-e6a4-4118-9bb2-b81430dc07bc-1750682493309/
+repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350/
+├── 📁 hooks/
 ├── 📁 public/
-└── 📁 src/ # Main source code
+├── 📁 src/ # Main source code
+├── 📁 types/
+└── 📁 utils/ # Helper functions and utilities
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
-- **`public/`** - This directory, `public`, temporarily stores publicly accessible files for a project
-- **`src/`** - The `src` directory contains the source code, assets, types, utility functions, and custom React hooks for a temporary "Todo" application project
+- **`hooks/`** - Enhanced directory analysis of hooks
+- **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
+- **`types/`** - Enhanced directory analysis of types
+- **`utils/`** - Enhanced directory analysis of utils
 
 ## ⚙️ Configuration
 
@@ -102,8 +109,11 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
+- [`hooks/` API Documentation](./hooks/README.md)
 - [`public/` API Documentation](./public/README.md)
 - [`src/` API Documentation](./src/README.md)
+- [`types/` API Documentation](./types/README.md)
+- [`utils/` API Documentation](./utils/README.md)
 
 ## 🤝 Contributing
 
@@ -115,7 +125,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-3de5b94c-e6a4-4118-9bb2-b81430dc07bc-1750682493309
+   cd repo-82b0e7f2-4c4b-429f-b464-fa2adf579446-1750743506350
    ```
 3. **Create a feature branch**:
    ```bash

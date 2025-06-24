@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "public",
-      "path": "public",
-      "purpose": "Enhanced directory analysis of public",
+      "name": "utils",
+      "path": "utils",
+      "purpose": "Enhanced directory analysis of utils",
       "ownKeyElements": []
     },
     "files": [

@@ -6,7 +6,7 @@
     "directory": {
       "name": "TodoApp",
       "path": "src\\components\\TodoApp",
-      "purpose": "The `TodoApp` directory contains the source code components for a \"Todo App\" application within a temporary repository.",
+      "purpose": "Enhanced directory analysis of TodoApp",
       "ownKeyElements": []
     },
     "files": [

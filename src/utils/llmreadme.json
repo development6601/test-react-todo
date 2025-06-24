@@ -6,7 +6,7 @@
     "directory": {
       "name": "utils",
       "path": "src\\utils",
-      "purpose": "The `src\\utils` directory contains utility functions and resources used by the project residing in the temporary repository `repo-3de5b94c-e6a4-4118-9bb2-b81430dc07bc-1750682493309`.",
+      "purpose": "Enhanced directory analysis of utils",
       "ownKeyElements": []
     },
     "files": [
