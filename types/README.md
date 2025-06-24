@@ -1,10 +1,10 @@
 # 📁 types
 
-> Enhanced directory analysis of types
+> The `types` directory contains type definitions used by the temporary repository `repo-b50c2af3-e8b6-4e25-a484-25f2ffe7899a-1750748412877`.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of types
+The `types` directory contains type definitions used by the temporary repository `repo-b50c2af3-e8b6-4e25-a484-25f2ffe7899a-1750748412877`.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

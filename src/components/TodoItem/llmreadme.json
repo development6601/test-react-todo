@@ -6,7 +6,7 @@
     "directory": {
       "name": "TodoItem",
       "path": "src\\components\\TodoItem",
-      "purpose": "Enhanced directory analysis of TodoItem",
+      "purpose": "This directory, `src\\components\\TodoItem`, contains the source code for the `TodoItem` component within a larger project.",
       "ownKeyElements": []
     },
     "files": [

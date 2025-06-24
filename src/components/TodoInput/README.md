@@ -1,10 +1,10 @@
 # 📁 TodoInput
 
-> Enhanced directory analysis of TodoInput
+> This directory, `src\components\TodoInput`, contains the source code for the "TodoInput" component of a software project.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of TodoInput
+This directory, `src\components\TodoInput`, contains the source code for the "TodoInput" component of a software project.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

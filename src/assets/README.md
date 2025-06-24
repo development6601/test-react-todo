@@ -1,10 +1,10 @@
 # 📁 assets
 
-> Enhanced directory analysis of assets
+> The directory `src\assets` stores asset files used in a project's source code.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of assets
+The directory `src\assets` stores asset files used in a project's source code.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

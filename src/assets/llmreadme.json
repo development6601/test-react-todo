@@ -6,7 +6,7 @@
     "directory": {
       "name": "assets",
       "path": "src\\assets",
-      "purpose": "Enhanced directory analysis of assets",
+      "purpose": "The directory `src\\assets` stores asset files used in a project's source code.",
       "ownKeyElements": []
     },
     "files": [

@@ -6,7 +6,7 @@
     "directory": {
       "name": "hooks",
       "path": "hooks",
-      "purpose": "Enhanced directory analysis of hooks",
+      "purpose": "This directory, `hooks`, stores Git hooks for a temporary repository.",
       "ownKeyElements": []
     },
     "files": [

@@ -1,10 +1,10 @@
 # 📁 src
 
-> Enhanced directory analysis of src
+> The `src` directory contains the source code for a React Todo application, including components, hooks, types, utility functions, and asset files.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of src
+The `src` directory contains the source code for a React Todo application, including components, hooks, types, utility functions, and asset files.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
@@ -24,19 +24,19 @@ src/
 ## 📁 Subdirectories
 
 ### `assets/`
-Enhanced directory analysis of assets
+The directory `src\assets` stores asset files used in a project's source code.
 
 ### `components/`
-Enhanced directory analysis of components
+This directory, `src\components`, contains the source code for the individual components of a Todo application, including input, item display, list management, filtering, and statistics.
 
 ### `hooks/`
-Enhanced directory analysis of hooks
+The `src\hooks` directory contains the source code for custom React hooks used within a project.
 
 ### `types/`
-Enhanced directory analysis of types
+This directory, `src\types`, stores type definitions for a source code project.
 
 ### `utils/`
-Enhanced directory analysis of utils
+The `src\utils` directory contains utility functions and supporting code for a project.
 
 ---
 

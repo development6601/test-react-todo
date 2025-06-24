@@ -6,7 +6,7 @@
     "directory": {
       "name": "types",
       "path": "src\\types",
-      "purpose": "Enhanced directory analysis of types",
+      "purpose": "This directory, `src\\types`, stores type definitions for a source code project.",
       "ownKeyElements": []
     },
     "files": [

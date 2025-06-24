@@ -1,10 +1,10 @@
 # 📁 types
 
-> Enhanced directory analysis of types
+> This directory, `src\types`, stores type definitions for a source code project.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of types
+This directory, `src\types`, stores type definitions for a source code project.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

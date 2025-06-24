@@ -1,10 +1,10 @@
 # 📁 public
 
-> Enhanced directory analysis of public
+> The `public` directory temporarily stores publicly accessible files for a specific project version.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of public
+The `public` directory temporarily stores publicly accessible files for a specific project version.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

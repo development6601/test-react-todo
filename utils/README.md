@@ -1,10 +1,10 @@
 # 📁 utils
 
-> Enhanced directory analysis of utils
+> The `utils` directory contains utility files supporting the project's functionality, likely residing within a temporary repository folder.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of utils
+The `utils` directory contains utility files supporting the project's functionality, likely residing within a temporary repository folder.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

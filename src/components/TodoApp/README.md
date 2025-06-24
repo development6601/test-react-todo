@@ -1,10 +1,10 @@
 # 📁 TodoApp
 
-> Enhanced directory analysis of TodoApp
+> The `TodoApp` directory contains the source code for the components of a Todo application.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of TodoApp
+The `TodoApp` directory contains the source code for the components of a Todo application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

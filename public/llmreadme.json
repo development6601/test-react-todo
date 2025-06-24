@@ -6,7 +6,7 @@
     "directory": {
       "name": "public",
       "path": "public",
-      "purpose": "Enhanced directory analysis of public",
+      "purpose": "The `public` directory temporarily stores publicly accessible files for a specific project version.",
       "ownKeyElements": []
     },
     "files": [

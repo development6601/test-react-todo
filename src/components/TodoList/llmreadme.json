@@ -6,7 +6,7 @@
     "directory": {
       "name": "TodoList",
       "path": "src\\components\\TodoList",
-      "purpose": "Enhanced directory analysis of TodoList",
+      "purpose": "The `src\\components\\TodoList` directory contains the source code for a \"TodoList\" component within a larger software project.",
       "ownKeyElements": []
     },
     "files": [

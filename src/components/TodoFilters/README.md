@@ -1,10 +1,10 @@
 # 📁 TodoFilters
 
-> Enhanced directory analysis of TodoFilters
+> The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a todo application.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of TodoFilters
+The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a todo application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

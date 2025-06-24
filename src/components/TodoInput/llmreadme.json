@@ -6,7 +6,7 @@
     "directory": {
       "name": "TodoInput",
       "path": "src\\components\\TodoInput",
-      "purpose": "Enhanced directory analysis of TodoInput",
+      "purpose": "This directory, `src\\components\\TodoInput`, contains the source code for the \"TodoInput\" component of a software project.",
       "ownKeyElements": []
     },
     "files": [

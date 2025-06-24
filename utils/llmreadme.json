@@ -6,7 +6,7 @@
     "directory": {
       "name": "utils",
       "path": "utils",
-      "purpose": "Enhanced directory analysis of utils",
+      "purpose": "The `utils` directory contains utility files supporting the project's functionality, likely residing within a temporary repository folder.",
       "ownKeyElements": []
     },
     "files": [
