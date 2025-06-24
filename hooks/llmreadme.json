@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "hooks",
+      "path": "hooks",
+      "purpose": "The `hooks` directory contains scripts or executables that Git executes before or after events in the `repo-56110a36-c47a-4674-903a-eba46057320f-1750740186481` repository.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}
