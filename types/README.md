@@ -1,10 +1,10 @@
 # 📁 types
 
-> The `types` directory contains type definitions used by the temporary repository `repo-b50c2af3-e8b6-4e25-a484-25f2ffe7899a-1750748412877`.
+> The `types` directory within a temporary repository likely stores TypeScript type definitions or other type-related files used for code development.
 
 ## 📋 Directory Overview
 
-The `types` directory contains type definitions used by the temporary repository `repo-b50c2af3-e8b6-4e25-a484-25f2ffe7899a-1750748412877`.
+The `types` directory within a temporary repository likely stores TypeScript type definitions or other type-related files used for code development.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

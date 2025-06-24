@@ -1,10 +1,10 @@
 # 📁 TodoFilters
 
-> The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a todo application.
+> The `TodoFilters` directory contains the source code for the components responsible for filtering todo items within a larger application.
 
 ## 📋 Directory Overview
 
-The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a todo application.
+The `TodoFilters` directory contains the source code for the components responsible for filtering todo items within a larger application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

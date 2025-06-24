@@ -1,10 +1,10 @@
 # 📁 hooks
 
-> The `src\hooks` directory contains the source code for custom React hooks used within a project.
+> Enhanced directory analysis of hooks
 
 ## 📋 Directory Overview
 
-The `src\hooks` directory contains the source code for custom React hooks used within a project.
+Enhanced directory analysis of hooks
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

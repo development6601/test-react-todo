@@ -1,10 +1,10 @@
 # 📁 utils
 
-> The `utils` directory contains utility files supporting the project's functionality, likely residing within a temporary repository folder.
+> The `utils` directory contains utility files and subdirectories supporting the functions of the `repo-37ec441e-28fc-45a3-9300-4884708b9ac4-1750748469460` project, likely residing within a temporary location.
 
 ## 📋 Directory Overview
 
-The `utils` directory contains utility files supporting the project's functionality, likely residing within a temporary repository folder.
+The `utils` directory contains utility files and subdirectories supporting the functions of the `repo-37ec441e-28fc-45a3-9300-4884708b9ac4-1750748469460` project, likely residing within a temporary location.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

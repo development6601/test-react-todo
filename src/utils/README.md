@@ -1,10 +1,10 @@
 # 📁 utils
 
-> The `src\utils` directory contains utility functions and supporting code for a project.
+> Enhanced directory analysis of utils
 
 ## 📋 Directory Overview
 
-The `src\utils` directory contains utility functions and supporting code for a project.
+Enhanced directory analysis of utils
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

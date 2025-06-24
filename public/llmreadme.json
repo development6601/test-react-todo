@@ -6,7 +6,7 @@
     "directory": {
       "name": "public",
       "path": "public",
-      "purpose": "The `public` directory temporarily stores publicly accessible files for a specific project version.",
+      "purpose": "This directory, `public`, temporarily stores publicly accessible files for a project, likely during a build or deployment process.",
       "ownKeyElements": []
     },
     "files": [
