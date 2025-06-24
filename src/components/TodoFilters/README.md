@@ -1,10 +1,10 @@
 # 📁 TodoFilters
 
-> This directory, `src\components\TodoFilters`, stores the source code for the "TodoFilters" components used in a larger application.
+> The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a "Todo" application.
 
 ## 📋 Directory Overview
 
-This directory, `src\components\TodoFilters`, stores the source code for the "TodoFilters" components used in a larger application.
+The `TodoFilters` directory contains the source code for the components responsible for filtering tasks within a "Todo" application.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

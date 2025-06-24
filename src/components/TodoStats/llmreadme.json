@@ -6,7 +6,7 @@
     "directory": {
       "name": "TodoStats",
       "path": "src\\components\\TodoStats",
-      "purpose": "The `TodoStats` directory contains the source code for the components related to displaying statistics for a to-do list application.",
+      "purpose": "Enhanced directory analysis of TodoStats",
       "ownKeyElements": []
     },
     "files": [
