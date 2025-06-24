@@ -1,6 +1,6 @@
-# 🚀 repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
+# 🚀 repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666
 
-> Enhanced directory analysis of repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
+> Enhanced directory analysis of repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
@@ -20,13 +20,15 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
+Enhanced directory analysis of repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
+- 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
 
@@ -37,10 +39,10 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
+cd repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666
 
 # Run the main application
-node index.js
+node src/index.js
 ```
 
 ## 📦 Installation
@@ -65,7 +67,7 @@ npm install
 
 ```javascript
 // Import the main module
-const main = require('./index.js');
+const main = require('./src/index.js');
 
 // Run the application
 main();
@@ -74,15 +76,23 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588/
-└── 📁 types/
+repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666/
+├── 📁 hooks/
+├── 📁 public/
+├── 📁 src/ # Main source code
+├── 📁 types/
+└── 📁 utils/ # Helper functions and utilities
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
+- **`hooks/`** - Enhanced directory analysis of hooks
+- **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
 - **`types/`** - Enhanced directory analysis of types
+- **`utils/`** - Enhanced directory analysis of utils
 
 ## ⚙️ Configuration
 
@@ -99,7 +109,11 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
+- [`hooks/` API Documentation](./hooks/README.md)
+- [`public/` API Documentation](./public/README.md)
+- [`src/` API Documentation](./src/README.md)
 - [`types/` API Documentation](./types/README.md)
+- [`utils/` API Documentation](./utils/README.md)
 
 ## 🤝 Contributing
 
@@ -111,7 +125,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-569f948d-de02-46c3-b86f-027aa9d99434-1750749527588
+   cd repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666
    ```
 3. **Create a feature branch**:
    ```bash
