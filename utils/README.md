@@ -1,10 +1,10 @@
 # 📁 utils
 
-> Enhanced directory analysis of utils
+> The `utils` directory contains utility files supporting the temporary repository `repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768`.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of utils
+The `utils` directory contains utility files supporting the temporary repository `repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768`.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
