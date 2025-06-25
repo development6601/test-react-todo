@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import type { Todo, TodoFilter } from '../types';
 import { generateId, filterTodos, sortTodos } from '../utils/todoUtils';
 
-const STORAGE_KEY = 'react-todo-app';
+const STORAGE_KEY = 'react-todo-app-2';
 
 export const useTodos = () => {
   const [todos, setTodos] = useState<Todo[]>([]);
