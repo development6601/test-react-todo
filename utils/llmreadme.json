@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "utils",
+      "path": "utils",
+      "purpose": "The `utils` directory contains utility files supporting the temporary repository `repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768`.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": []
+  }
+}

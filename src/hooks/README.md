@@ -1,18 +1,10 @@
 # 📁 hooks
 
-<<<<<<< test-1
 > Enhanced directory analysis of hooks
 
 ## 📋 Directory Overview
 
 Enhanced directory analysis of hooks
-=======
-> This directory, `hooks`, stores Git hooks for a temporary repository.
-
-## 📋 Directory Overview
-
-This directory, `hooks`, stores Git hooks for a temporary repository.
->>>>>>> test6
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
