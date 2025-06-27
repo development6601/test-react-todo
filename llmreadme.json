@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666",
+      "path": ".",
+      "purpose": "Enhanced directory analysis of repo-85d9bbd3-7aa4-4496-83a1-ebbbc881886b-1750749929666",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "hooks",
+    "relativePath": "hooks",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of hooks",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "public",
+    "relativePath": "public",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of public",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "src",
+    "relativePath": "src",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of src",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "types",
+    "relativePath": "types",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of types",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "utils",
+    "relativePath": "utils",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of utils",
+    "keyElementsFromChild": []
+  }
+]
+  }
+}
