@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "repo-d0f21eac-44ff-428d-9cf2-b54f979b2868-1751026917270",
+      "path": ".",
+      "purpose": "Enhanced directory analysis of repo-d0f21eac-44ff-428d-9cf2-b54f979b2868-1751026917270",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "assets",
+    "relativePath": "assets",
+    "sourcedPurposeFromChild": "The directory `assets` stores temporary assets used by a project, likely during a build or development process.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "hooks",
+    "relativePath": "hooks",
+    "sourcedPurposeFromChild": "The `hooks` directory contains scripts or executables that Git executes before or after events like commits or pushes, automating tasks within the `repo-d0f21eac-44ff-428d-9cf2-b54f979b2868-1751026917270` Git repository.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "public",
+    "relativePath": "public",
+    "sourcedPurposeFromChild": "This directory, `public`, temporarily stores publicly accessible files for a project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "src",
+    "relativePath": "src",
+    "sourcedPurposeFromChild": "The `src` directory houses the source code for a React to-do list application, including components, custom hooks, type definitions, utility functions, and static assets.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "types",
+    "relativePath": "types",
+    "sourcedPurposeFromChild": "The `types` directory stores type definitions for a temporary repository, likely used during a build or development process.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "utils3",
+    "relativePath": "utils3",
+    "sourcedPurposeFromChild": "Enhanced directory analysis of utils3",
+    "keyElementsFromChild": []
+  }
+]
+  }
+}

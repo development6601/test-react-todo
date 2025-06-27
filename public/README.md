@@ -1,10 +1,10 @@
-# 📁 utils3
+# 📁 public
 
-> Enhanced directory analysis of utils3
+> This directory, `public`, temporarily stores publicly accessible files for a project.
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of utils3
+This directory, `public`, temporarily stores publicly accessible files for a project.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

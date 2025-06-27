@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "utils3",
-      "path": "utils3",
-      "purpose": "Enhanced directory analysis of utils3",
+      "name": "TodoFilters",
+      "path": "src\\components\\TodoFilters",
+      "purpose": "The `TodoFilters` directory contains the source code for the components responsible for filtering todo items within a larger application.",
       "ownKeyElements": []
     },
     "files": [

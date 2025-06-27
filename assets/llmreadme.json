@@ -6,7 +6,7 @@
     "directory": {
       "name": "assets",
       "path": "assets",
-      "purpose": "The `assets` directory stores temporary assets used by a project, likely during a build or development process.",
+      "purpose": "The directory `assets` stores temporary assets used by a project, likely during a build or development process.",
       "ownKeyElements": []
     },
     "files": [

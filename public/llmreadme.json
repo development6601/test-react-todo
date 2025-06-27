@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "utils3",
-      "path": "utils3",
-      "purpose": "Enhanced directory analysis of utils3",
+      "name": "public",
+      "path": "public",
+      "purpose": "This directory, `public`, temporarily stores publicly accessible files for a project.",
       "ownKeyElements": []
     },
     "files": [

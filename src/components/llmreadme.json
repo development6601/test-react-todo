@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": null,
+  "metadata": {
+    "directory": {
+      "name": "components",
+      "path": "src\\components",
+      "purpose": "The `src\\components` directory contains the source code for all React components of a to-do list application, including input, item display, filtering, and statistics.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "TodoApp",
+    "relativePath": "TodoApp",
+    "sourcedPurposeFromChild": "This directory, `src\\components\\TodoApp`, contains the source code for a TodoApp component within a larger software project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoFilters",
+    "relativePath": "TodoFilters",
+    "sourcedPurposeFromChild": "The `TodoFilters` directory contains the source code for the components responsible for filtering todo items within a larger application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoInput",
+    "relativePath": "TodoInput",
+    "sourcedPurposeFromChild": "The `TodoInput` directory contains the source code components for a to-do input feature within a larger application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoItem",
+    "relativePath": "TodoItem",
+    "sourcedPurposeFromChild": "The `TodoItem` directory contains the source code for the components related to individual to-do items within a larger application.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoList",
+    "relativePath": "TodoList",
+    "sourcedPurposeFromChild": "The `TodoList` directory contains the source code for the components related to the Todo List feature within a larger project.",
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "TodoStats",
+    "relativePath": "TodoStats",
+    "sourcedPurposeFromChild": "The `TodoStats` directory contains the source code for the components responsible for displaying statistics related to a to-do list application.",
+    "keyElementsFromChild": []
+  }
+]
+  }
+}

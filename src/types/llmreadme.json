@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "utils3",
-      "path": "utils3",
-      "purpose": "Enhanced directory analysis of utils3",
+      "name": "types",
+      "path": "src\\types",
+      "purpose": "The `src\\types` directory stores type definitions for a software project.",
       "ownKeyElements": []
     },
     "files": [

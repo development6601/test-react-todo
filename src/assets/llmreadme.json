@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "utils3",
-      "path": "utils3",
-      "purpose": "Enhanced directory analysis of utils3",
+      "name": "assets",
+      "path": "src\\assets",
+      "purpose": "The `src\\assets` directory stores the project's static assets, such as images or media files, used within the source code.",
       "ownKeyElements": []
     },
     "files": [

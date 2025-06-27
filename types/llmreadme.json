@@ -6,7 +6,7 @@
     "directory": {
       "name": "types",
       "path": "types",
-      "purpose": "Enhanced directory analysis of types",
+      "purpose": "The `types` directory stores type definitions for a temporary repository, likely used during a build or development process.",
       "ownKeyElements": []
     },
     "files": [

@@ -1,10 +1,10 @@
 # 📁 types
 
-> The `types` directory stores type definitions for a temporary repository, likely used during a build or development process.
+> The `src\types` directory stores type definitions for a software project.
 
 ## 📋 Directory Overview
 
-The `types` directory stores type definitions for a temporary repository, likely used during a build or development process.
+The `src\types` directory stores type definitions for a software project.
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

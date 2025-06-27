@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "utils3",
-      "path": "utils3",
-      "purpose": "Enhanced directory analysis of utils3",
+      "name": "TodoList",
+      "path": "src\\components\\TodoList",
+      "purpose": "The `TodoList` directory contains the source code for the components related to the Todo List feature within a larger project.",
       "ownKeyElements": []
     },
     "files": [

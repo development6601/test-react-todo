@@ -4,9 +4,9 @@
   "generatedAt": null,
   "metadata": {
     "directory": {
-      "name": "utils3",
-      "path": "utils3",
-      "purpose": "Enhanced directory analysis of utils3",
+      "name": "TodoInput",
+      "path": "src\\components\\TodoInput",
+      "purpose": "The `TodoInput` directory contains the source code components for a to-do input feature within a larger application.",
       "ownKeyElements": []
     },
     "files": [
