@@ -1,0 +1,194 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-09-26T10:15:25.955Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "TodoFilters",
+      "path": "src/components/TodoFilters",
+      "purpose": "Enhanced directory analysis of TodoFilters",
+      "ownKeyElements": []
+    },
+    "files": [
+      {
+        "name": "TodoFilters.tsx",
+        "path": "src/components/TodoFilters/TodoFilters.tsx",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 115,
+        "placeholderDetection": [
+          {
+            "filePath": "/workspace/src/components/TodoFilters/TodoFilters.tsx",
+            "functionName": "handleCategoryChange",
+            "classification": "definite-legitimate",
+            "confidence": 0,
+            "isPlaceholder": false,
+            "reasons": [
+              "Low cyclomatic complexity (1)",
+              "Very short function (3 lines)",
+              "Legitimate simple function pattern (getter/setter/utility); Event handler or callback function",
+              "Safety cap applied: cheap heuristics only"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 0,
+              "namingPatterns": 0,
+              "astAnalysis": 18,
+              "commentAnalysis": 0,
+              "contextFilter": -42,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          },
+          {
+            "filePath": "/workspace/src/components/TodoFilters/TodoFilters.tsx",
+            "functionName": "handlePriorityChange",
+            "classification": "definite-legitimate",
+            "confidence": 0,
+            "isPlaceholder": false,
+            "reasons": [
+              "Low cyclomatic complexity (1)",
+              "Very short function (3 lines)",
+              "Legitimate simple function pattern (getter/setter/utility); Event handler or callback function",
+              "Safety cap applied: cheap heuristics only"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 0,
+              "namingPatterns": 0,
+              "astAnalysis": 18,
+              "commentAnalysis": 0,
+              "contextFilter": -42,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          },
+          {
+            "filePath": "/workspace/src/components/TodoFilters/TodoFilters.tsx",
+            "functionName": "handleStatusChange",
+            "classification": "definite-legitimate",
+            "confidence": 0,
+            "isPlaceholder": false,
+            "reasons": [
+              "Low cyclomatic complexity (1)",
+              "Very short function (3 lines)",
+              "Legitimate simple function pattern (getter/setter/utility); Event handler or callback function",
+              "Safety cap applied: cheap heuristics only"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 0,
+              "namingPatterns": 0,
+              "astAnalysis": 18,
+              "commentAnalysis": 0,
+              "contextFilter": -42,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          },
+          {
+            "filePath": "/workspace/src/components/TodoFilters/TodoFilters.tsx",
+            "functionName": "TodoFilters",
+            "classification": "likely-placeholder",
+            "confidence": 60,
+            "isPlaceholder": true,
+            "reasons": [
+              "Contains explicit placeholder marker: \"Todo\"",
+              "High context score suggests legitimate implementation"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 85,
+              "namingPatterns": 0,
+              "astAnalysis": 0,
+              "commentAnalysis": 0,
+              "contextFilter": -25,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          }
+        ],
+        "importedModules": [
+          {
+            "name": "TodoFilter",
+            "sourceModule": "../../types",
+            "isDefault": false,
+            "namedImports": [
+              "TodoFilter"
+            ]
+          },
+          {
+            "name": "./TodoFilters.css",
+            "sourceModule": "./TodoFilters.css",
+            "isDefault": false
+          }
+        ],
+        "exportedElements": [
+          {
+            "name": "TodoFilters",
+            "type": "const"
+          }
+        ],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": [
+          {
+            "name": "TodoFilters",
+            "type": "function",
+            "signature": "const TodoFilters = () =>"
+          },
+          {
+            "name": "handleStatusChange",
+            "type": "function",
+            "signature": "const handleStatusChange = () =>"
+          },
+          {
+            "name": "handleCategoryChange",
+            "type": "function",
+            "signature": "const handleCategoryChange = () =>"
+          },
+          {
+            "name": "handlePriorityChange",
+            "type": "function",
+            "signature": "const handlePriorityChange = () =>"
+          },
+          {
+            "name": "T",
+            "type": "const",
+            "signature": "const T"
+          },
+          {
+            "name": "TodoFiltersProps",
+            "type": "interface",
+            "signature": "interface TodoFiltersProps"
+          }
+        ]
+      }
+    ],
+    "subdirectories": []
+  }
+}
