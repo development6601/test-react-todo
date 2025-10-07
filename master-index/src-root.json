@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-10-07T05:54:53.780Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "src",
+      "path": "src",
+      "purpose": "Enhanced directory analysis of src",
+      "ownKeyElements": []
+    },
+    "files": [
+      {
+        "name": "vite-env.d.ts",
+        "path": "src/vite-env.d.ts",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 2,
+        "importedModules": [],
+        "exportedElements": [],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": []
+      },
+      {
+        "name": "main.tsx",
+        "path": "src/main.tsx",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 11,
+        "importedModules": [
+          {
+            "name": "StrictMode",
+            "sourceModule": "react",
+            "isDefault": false,
+            "namedImports": [
+              "StrictMode"
+            ]
+          },
+          {
+            "name": "createRoot",
+            "sourceModule": "react-dom/client",
+            "isDefault": false,
+            "namedImports": [
+              "createRoot"
+            ]
+          },
+          {
+            "name": "./index.css",
+            "sourceModule": "./index.css",
+            "isDefault": false
+          },
+          {
+            "name": "App",
+            "sourceModule": "./App.tsx",
+            "isDefault": true
+          }
+        ],
+        "exportedElements": [],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": []
+      },
+      {
+        "name": "App.tsx",
+        "path": "src/App.tsx",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 9,
+        "placeholderDetection": [
+          {
+            "filePath": "/workspace/src/App.tsx",
+            "functionName": "App",
+            "classification": "definite-placeholder",
+            "confidence": 100,
+            "isPlaceholder": true,
+            "reasons": [
+              "Contains explicit placeholder marker: \"Todo\"",
+              "Low cyclomatic complexity (1)",
+              "Very short function (3 lines)",
+              "Function takes no parameters"
+            ],
+            "location": {
+              "startLine": 4,
+              "endLine": 6
+            },
+            "detectionMethods": {
+              "explicitMarkers": 85,
+              "namingPatterns": 0,
+              "astAnalysis": 22,
+              "commentAnalysis": 0,
+              "contextFilter": 0,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          }
+        ],
+        "importedModules": [
+          {
+            "name": "TodoApp",
+            "sourceModule": "./components/TodoApp/TodoApp",
+            "isDefault": false,
+            "namedImports": [
+              "TodoApp"
+            ]
+          },
+          {
+            "name": "./App.css",
+            "sourceModule": "./App.css",
+            "isDefault": false
+          }
+        ],
+        "exportedElements": [
+          {
+            "name": "default",
+            "type": "const"
+          }
+        ],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": [
+          {
+            "name": "App",
+            "type": "function",
+            "signature": "function App()"
+          }
+        ]
+      }
+    ],
+    "subdirectories": [
+      {
+        "name": "assets",
+        "relativePath": "assets",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of assets",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "components",
+        "relativePath": "components",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of components",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "hooks",
+        "relativePath": "hooks",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of hooks",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "types",
+        "relativePath": "types",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of types",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "utils",
+        "relativePath": "utils",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of utils",
+        "keyElementsFromChild": []
+      }
+    ]
+  }
+}

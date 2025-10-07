@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-10-07T05:54:53.447Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "hooks",
+      "path": "src/hooks",
+      "purpose": "Enhanced directory analysis of hooks",
+      "ownKeyElements": []
+    },
+    "files": [
+      {
+        "name": "useTodos.ts",
+        "path": "src/hooks/useTodos.ts",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 91,
+        "placeholderDetection": [
+          {
+            "filePath": "/workspace/src/hooks/useTodos.ts",
+            "functionName": "useTodos",
+            "classification": "likely-placeholder",
+            "confidence": 64,
+            "isPlaceholder": true,
+            "reasons": [
+              "Contains explicit placeholder marker: \"Todo\"",
+              "Function takes no parameters",
+              "High context score suggests legitimate implementation"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 85,
+              "namingPatterns": 0,
+              "astAnalysis": 4,
+              "commentAnalysis": 0,
+              "contextFilter": -25,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          }
+        ],
+        "importedModules": [
+          {
+            "name": "useState",
+            "sourceModule": "react",
+            "isDefault": false,
+            "namedImports": [
+              "useState",
+              "useEffect",
+              "useCallback"
+            ]
+          },
+          {
+            "name": "Todo",
+            "sourceModule": "../types",
+            "isDefault": false,
+            "namedImports": [
+              "Todo",
+              "TodoFilter"
+            ]
+          },
+          {
+            "name": "generateId",
+            "sourceModule": "../utils/todoUtils",
+            "isDefault": false,
+            "namedImports": [
+              "generateId",
+              "filterTodos",
+              "sortTodos"
+            ]
+          }
+        ],
+        "exportedElements": [
+          {
+            "name": "useTodos",
+            "type": "const"
+          }
+        ],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": [
+          {
+            "name": "useTodos",
+            "type": "function",
+            "signature": "const useTodos = () =>"
+          },
+          {
+            "name": "STORAGE_KEY",
+            "type": "const",
+            "signature": "const STORAGE_KEY"
+          }
+        ]
+      }
+    ],
+    "subdirectories": []
+  }
+}
