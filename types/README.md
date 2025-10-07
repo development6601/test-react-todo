@@ -7,8 +7,54 @@
 Enhanced directory analysis of types
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/24/2025
+- **Files:** 2 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/7/2025
+
+## 🗂 Directory Structure
+
+```
+types/
+├── 📄 types/index.ts (2 lines)
+└── 📄 types/Todo.ts (20 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `types/index.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 2
+
+**Code Elements:**
+
+#### 📤 Exports (6)
+- `Todo`
+- `TodoFilter`
+- `TodoStats`
+- `Todo`
+- `TodoFilter`
+- `TodoStats`
+
+---
+
+### 📄 `types/Todo.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 20
+
+**Code Elements:**
+
+#### 📤 Exports (3)
+- `Todo`
+- `TodoFilter`
+- `TodoStats`
+
+#### 💻 Usage Example
+```ts
+```
+
+---
 
 ---
 

@@ -7,8 +7,9 @@
 Enhanced directory analysis of src
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/24/2025
+- **Files:** 3 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/7/2025
 
 ## 🗂 Directory Structure
 
@@ -18,8 +19,71 @@ src/
 ├── 📁 components/
 ├── 📁 hooks/
 ├── 📁 types/
-└── 📁 utils/
+├── 📁 utils/
+├── 📄 src/vite-env.d.ts (2 lines)
+├── 📄 src/main.tsx (11 lines)
+└── 📄 src/App.tsx (12 lines)
 ```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/vite-env.d.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 2
+
+**Code Elements:**
+
+---
+
+### 📄 `src/main.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 11
+
+**Code Elements:**
+
+#### 📥 Imports (4)
+- `StrictMode`
+- `createRoot`
+- `./index.css`
+- `App`
+
+---
+
+### 📄 `src/App.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 12
+
+**Code Elements:**
+
+#### ⚙️ Functions (1)
+- **`App()`** - function App()
+
+#### 📥 Imports (2)
+- `TodoApp`
+- `./App.css`
+
+#### 📤 Exports (1)
+- `default`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { App } = require('./App.tsx');
+const result = App();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `App()` | `src/App.tsx` | App function implementation |
 
 ## 📁 Subdirectories
 

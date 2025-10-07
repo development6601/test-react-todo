@@ -7,8 +7,58 @@
 Enhanced directory analysis of TodoFilters
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/24/2025
+- **Files:** 1 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/7/2025
+
+## 🗂 Directory Structure
+
+```
+TodoFilters/
+└── 📄 src/components/TodoFilters/TodoFilters.tsx (115 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/components/TodoFilters/TodoFilters.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 115
+
+**Code Elements:**
+
+#### ⚙️ Functions (4)
+- **`TodoFilters()`** - const TodoFilters = () =>
+- **`handleStatusChange()`** - const handleStatusChange = () =>
+- **`handleCategoryChange()`** - const handleCategoryChange = () =>
+- **`handlePriorityChange()`** - const handlePriorityChange = () =>
+
+#### 📥 Imports (2)
+- `TodoFilter`
+- `./TodoFilters.css`
+
+#### 📤 Exports (1)
+- `TodoFilters`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { TodoFilters } = require('./TodoFilters.tsx');
+const result = TodoFilters();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `TodoFilters()` | `src/components/TodoFilters/TodoFilters.tsx` | TodoFilters function implementation |
+| `handleStatusChange()` | `src/components/TodoFilters/TodoFilters.tsx` | handleStatusChange function implementation |
+| `handleCategoryChange()` | `src/components/TodoFilters/TodoFilters.tsx` | handleCategoryChange function implementation |
+| `handlePriorityChange()` | `src/components/TodoFilters/TodoFilters.tsx` | handlePriorityChange function implementation |
 
 ---
 
