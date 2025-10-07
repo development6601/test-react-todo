@@ -15,15 +15,15 @@ Enhanced directory analysis of utils
 
 ```
 utils/
-└── 📄 utils/todoUtils.ts (48 lines)
+└── 📄 src/utils/todoUtils.ts (47 lines)
 ```
 
 ## 🎯 Files in this Directory
 
-### 📄 `utils/todoUtils.ts`
+### 📄 `src/utils/todoUtils.ts`
 **File Information:**
 - **Language:** TypeScript 5.4
-- **Lines of Code:** 48
+- **Lines of Code:** 47
 
 **Code Elements:**
 

@@ -1,10 +1,10 @@
-# 📁 assets
+# 📁 public
 
-> Enhanced directory analysis of assets
+> Enhanced directory analysis of public
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of assets
+Enhanced directory analysis of public
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
