@@ -1,14 +1,59 @@
 # 📁 hooks
 
-> The `hooks` directory contains scripts or executables that Git executes before or after events like commits or pushes, automating tasks within the `repo-d0f21eac-44ff-428d-9cf2-b54f979b2868-1751026917270` Git repository.
+> Enhanced directory analysis of hooks
 
 ## 📋 Directory Overview
 
-The `hooks` directory contains scripts or executables that Git executes before or after events like commits or pushes, automating tasks within the `repo-d0f21eac-44ff-428d-9cf2-b54f979b2868-1751026917270` Git repository.
+Enhanced directory analysis of hooks
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/27/2025
+- **Files:** 1 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/8/2025
+
+## 🗂 Directory Structure
+
+```
+hooks/
+└── 📄 hooks/useTodos.ts (91 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `hooks/useTodos.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 91
+
+**Code Elements:**
+
+#### ⚙️ Functions (1)
+- **`useTodos()`** - const useTodos = () =>
+
+#### 📥 Imports (3)
+- `useState`
+- `Todo`
+- `generateId`
+
+#### 📤 Exports (1)
+- `useTodos`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { useTodos } = require('./useTodos.ts');
+const result = useTodos();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `useTodos()` | `hooks/useTodos.ts` | useTodos function implementation |
 
 ---
 

@@ -1,14 +1,57 @@
 # 📁 types
 
-> The `types` directory stores type definitions for a temporary repository, likely used during a build or development process.
+> Enhanced directory analysis of types
 
 ## 📋 Directory Overview
 
-The `types` directory stores type definitions for a temporary repository, likely used during a build or development process.
+Enhanced directory analysis of types
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/27/2025
+- **Files:** 2 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/8/2025
+
+## 🗂 Directory Structure
+
+```
+types/
+├── 📄 types/index.ts (1 lines)
+└── 📄 types/Todo.ts (20 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `types/index.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 1
+
+**Code Elements:**
+
+#### 📤 Exports (3)
+- `Todo`
+- `TodoFilter`
+- `TodoStats`
+
+---
+
+### 📄 `types/Todo.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 20
+
+**Code Elements:**
+
+#### 📤 Exports (3)
+- `Todo`
+- `TodoFilter`
+- `TodoStats`
+
+#### 💻 Usage Example
+```ts
+```
+
+---
 
 ---
 

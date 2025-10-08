@@ -7,8 +7,37 @@
 Enhanced directory analysis of utils3
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/27/2025
+- **Files:** 1 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/8/2025
+
+## 🗂 Directory Structure
+
+```
+utils3/
+└── 📄 utils3/todoUtils.ts (47 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `utils3/todoUtils.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 47
+
+**Code Elements:**
+
+#### 📥 Imports (1)
+- `Todo`
+
+#### 📤 Exports (5)
+- `generateId`
+- `filterTodos`
+- `sortTodos`
+- `calculateStats`
+- `getUniqueCategories`
+
+---
 
 ---
 

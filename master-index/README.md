@@ -1,10 +1,10 @@
-# 📁 assets
+# 📁 master-index
 
-> Enhanced directory analysis of assets
+> Enhanced directory analysis of master-index
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of assets
+Enhanced directory analysis of master-index
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
