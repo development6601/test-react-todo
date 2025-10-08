@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-10-07T05:54:54.026Z",
+  "generatedAt": "2025-10-08T08:44:16.100Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -104,6 +104,12 @@
         "name": "hooks",
         "relativePath": "hooks",
         "sourcedPurposeFromChild": "Enhanced directory analysis of hooks",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "master-index",
+        "relativePath": "master-index",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of master-index",
         "keyElementsFromChild": []
       },
       {
