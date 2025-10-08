@@ -1,14 +1,73 @@
 # 📁 utils
 
-> The `utils` directory contains utility files supporting the temporary repository `repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768`.
+> Enhanced directory analysis of utils
 
 ## 📋 Directory Overview
 
-The `utils` directory contains utility files supporting the temporary repository `repo-edd9d7b0-3da0-4002-9578-72da3fb7fe3f-1750749333768`.
+Enhanced directory analysis of utils
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/24/2025
+- **Files:** 3 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/8/2025
+
+## 🗂 Directory Structure
+
+```
+utils/
+├── 📄 utils/todoUtilstest.tsx (48 lines)
+├── 📄 utils/todoUtils.ts (47 lines)
+└── 📄 utils/test2.tsx (48 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `utils/todoUtilstest.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 48
+
+**Code Elements:**
+
+#### 📥 Imports (1)
+- `Todo`
+
+#### 📤 Exports (5)
+- `generateId`
+- `filterTodos`
+- `sortTodos`
+- `calculateStats`
+- `getUniqueCategories`
+
+---
+
+### 📄 `utils/todoUtils.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 47
+
+**Code Elements:**
+
+#### 📥 Imports (1)
+- `Todo`
+
+#### 📤 Exports (5)
+- `generateId`
+- `filterTodos`
+- `sortTodos`
+- `calculateStats`
+- `getUniqueCategories`
+
+---
+
+### 📄 `utils/test2.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 48
+
+**Code Elements:**
+
+---
 
 ---
 

@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-10-08T09:59:41.835Z",
+  "configuration": {
+    "detectPlaceholders": false,
+    "placeholderConfidence": 40,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "TodoItem",
+      "path": "src/components/TodoItem",
+      "purpose": "Enhanced directory analysis of TodoItem",
+      "ownKeyElements": []
+    },
+    "files": [
+      {
+        "name": "TodoItem.tsx",
+        "path": "src/components/TodoItem/TodoItem.tsx",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 137,
+        "importedModules": [
+          {
+            "name": "useState",
+            "sourceModule": "react",
+            "isDefault": false,
+            "namedImports": [
+              "useState"
+            ]
+          },
+          {
+            "name": "Todo",
+            "sourceModule": "../../types",
+            "isDefault": false,
+            "namedImports": [
+              "Todo"
+            ]
+          },
+          {
+            "name": "./TodoItem.css",
+            "sourceModule": "./TodoItem.css",
+            "isDefault": false
+          }
+        ],
+        "exportedElements": [
+          {
+            "name": "TodoItem",
+            "type": "const"
+          }
+        ],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": [
+          {
+            "name": "TodoItem",
+            "type": "function",
+            "signature": "const TodoItem = () =>"
+          },
+          {
+            "name": "handleSave",
+            "type": "function",
+            "signature": "const handleSave = () =>"
+          },
+          {
+            "name": "handleCancel",
+            "type": "function",
+            "signature": "const handleCancel = () =>"
+          },
+          {
+            "name": "handleKeyPress",
+            "type": "function",
+            "signature": "const handleKeyPress = () =>"
+          },
+          {
+            "name": "getPriorityColor",
+            "type": "function",
+            "signature": "const getPriorityColor = () =>"
+          },
+          {
+            "name": "T",
+            "type": "const",
+            "signature": "const T"
+          },
+          {
+            "name": "TodoItemProps",
+            "type": "interface",
+            "signature": "interface TodoItemProps"
+          }
+        ]
+      }
+    ],
+    "subdirectories": []
+  }
+}

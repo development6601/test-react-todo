@@ -7,8 +7,52 @@
 Enhanced directory analysis of TodoStats
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/24/2025
+- **Files:** 1 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/8/2025
+
+## 🗂 Directory Structure
+
+```
+TodoStats/
+└── 📄 src/components/TodoStats/TodoStats.tsx (69 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/components/TodoStats/TodoStats.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 69
+
+**Code Elements:**
+
+#### ⚙️ Functions (1)
+- **`TodoStats()`** - const TodoStats = () =>
+
+#### 📥 Imports (2)
+- `TodoStatsType`
+- `./TodoStats.css`
+
+#### 📤 Exports (1)
+- `TodoStats`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { TodoStats } = require('./TodoStats.tsx');
+const result = TodoStats();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `TodoStats()` | `src/components/TodoStats/TodoStats.tsx` | TodoStats function implementation |
 
 ---
 
