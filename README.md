@@ -1,11 +1,11 @@
-# 🚀 repo-a87865ee-0573-42a0-a2ed-b78cc91ee915-1750741807452
+# 🚀 repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
 
-> Enhanced directory analysis of repo-a87865ee-0573-42a0-a2ed-b78cc91ee915-1750741807452
+> Enhanced directory analysis of repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-6/24/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-10/8/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,13 +20,15 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-a87865ee-0573-42a0-a2ed-b78cc91ee915-1750741807452
+Enhanced directory analysis of repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
+- 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
 
@@ -37,10 +39,10 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-a87865ee-0573-42a0-a2ed-b78cc91ee915-1750741807452
+cd repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
 
 # Run the main application
-node index.js
+node src/index.js
 ```
 
 ## 📦 Installation
@@ -65,7 +67,7 @@ npm install
 
 ```javascript
 // Import the main module
-const main = require('./index.js');
+const main = require('./src/index.js');
 
 // Run the application
 main();
@@ -74,15 +76,25 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-a87865ee-0573-42a0-a2ed-b78cc91ee915-1750741807452/
-└── 📁 types/
+repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332/
+├── 📁 assets/
+├── 📁 hooks/
+├── 📁 public/
+├── 📁 src/ # Main source code
+├── 📁 types/
+└── 📁 utils/ # Helper functions and utilities
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
-- **`types/`** - The `types` directory stores type definitions for the project within a temporary repository folder
+- **`assets/`** - Enhanced directory analysis of assets
+- **`hooks/`** - Enhanced directory analysis of hooks
+- **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
+- **`types/`** - Enhanced directory analysis of types
+- **`utils/`** - Enhanced directory analysis of utils
 
 ## ⚙️ Configuration
 
@@ -99,7 +111,12 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
+- [`assets/` API Documentation](./assets/README.md)
+- [`hooks/` API Documentation](./hooks/README.md)
+- [`public/` API Documentation](./public/README.md)
+- [`src/` API Documentation](./src/README.md)
 - [`types/` API Documentation](./types/README.md)
+- [`utils/` API Documentation](./utils/README.md)
 
 ## 🤝 Contributing
 
@@ -111,7 +128,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-a87865ee-0573-42a0-a2ed-b78cc91ee915-1750741807452
+   cd repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
    ```
 3. **Create a feature branch**:
    ```bash

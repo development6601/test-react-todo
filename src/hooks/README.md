@@ -15,12 +15,12 @@ Enhanced directory analysis of hooks
 
 ```
 hooks/
-└── 📄 hooks/useTodos.ts (91 lines)
+└── 📄 src/hooks/useTodos.ts (91 lines)
 ```
 
 ## 🎯 Files in this Directory
 
-### 📄 `hooks/useTodos.ts`
+### 📄 `src/hooks/useTodos.ts`
 **File Information:**
 - **Language:** TypeScript 5.4
 - **Lines of Code:** 91
@@ -53,7 +53,7 @@ console.log(result);
 ### Functions
 | Function | File | Description |
 |----------|------|-------------|
-| `useTodos()` | `hooks/useTodos.ts` | useTodos function implementation |
+| `useTodos()` | `src/hooks/useTodos.ts` | useTodos function implementation |
 
 ---
 
