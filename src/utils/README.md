@@ -1,10 +1,10 @@
-# 📁 utils3
+# 📁 utils
 
-> Enhanced directory analysis of utils3
+> Enhanced directory analysis of utils
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of utils3
+Enhanced directory analysis of utils
 
 **📊 Directory Statistics:**
 - **Files:** 1 TypeScript 5.4 files
@@ -14,13 +14,13 @@ Enhanced directory analysis of utils3
 ## 🗂 Directory Structure
 
 ```
-utils3/
-└── 📄 utils3/todoUtils.ts (47 lines)
+utils/
+└── 📄 src/utils/todoUtils.ts (47 lines)
 ```
 
 ## 🎯 Files in this Directory
 
-### 📄 `utils3/todoUtils.ts`
+### 📄 `src/utils/todoUtils.ts`
 **File Information:**
 - **Language:** TypeScript 5.4
 - **Lines of Code:** 47

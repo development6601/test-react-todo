@@ -15,13 +15,13 @@ Enhanced directory analysis of types
 
 ```
 types/
-├── 📄 types/index.ts (1 lines)
-└── 📄 types/Todo.ts (20 lines)
+├── 📄 src/types/index.ts (1 lines)
+└── 📄 src/types/Todo.ts (20 lines)
 ```
 
 ## 🎯 Files in this Directory
 
-### 📄 `types/index.ts`
+### 📄 `src/types/index.ts`
 **File Information:**
 - **Language:** TypeScript 5.4
 - **Lines of Code:** 1
@@ -35,7 +35,7 @@ types/
 
 ---
 
-### 📄 `types/Todo.ts`
+### 📄 `src/types/Todo.ts`
 **File Information:**
 - **Language:** TypeScript 5.4
 - **Lines of Code:** 20

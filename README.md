@@ -1,11 +1,11 @@
-# 🚀 repo-c11ee519-1918-4e93-bfe9-85539647775a-1750759577625
+# 🚀 repo-ffab4d57-9a94-4b70-b92f-964e8795dff3-1759918270558
 
-> Enhanced directory analysis of repo-c11ee519-1918-4e93-bfe9-85539647775a-1750759577625
+> Enhanced directory analysis of repo-ffab4d57-9a94-4b70-b92f-964e8795dff3-1759918270558
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-6/24/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-10/8/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,13 +20,14 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-c11ee519-1918-4e93-bfe9-85539647775a-1750759577625
+Enhanced directory analysis of repo-ffab4d57-9a94-4b70-b92f-964e8795dff3-1759918270558
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files, and utility functions.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
 - 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
@@ -38,10 +39,10 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-c11ee519-1918-4e93-bfe9-85539647775a-1750759577625
+cd repo-ffab4d57-9a94-4b70-b92f-964e8795dff3-1759918270558
 
 # Run the main application
-node index.js
+node src/index.js
 ```
 
 ## 📦 Installation
@@ -66,7 +67,7 @@ npm install
 
 ```javascript
 // Import the main module
-const main = require('./index.js');
+const main = require('./src/index.js');
 
 // Run the application
 main();
@@ -75,21 +76,25 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-c11ee519-1918-4e93-bfe9-85539647775a-1750759577625/
+repo-ffab4d57-9a94-4b70-b92f-964e8795dff3-1759918270558/
 ├── 📁 assets/
 ├── 📁 hooks/
+├── 📁 public/
+├── 📁 src/ # Main source code
 ├── 📁 types/
-└── 📁 utils/ # Helper functions and utilities
+└── 📁 utils3/ # Helper functions and utilities
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
-- **`assets/`** - The `assets` directory stores temporary assets used by a project, likely during a build or development process
-- **`hooks/`** - This directory, `hooks`, stores Git hooks for a temporary repository
+- **`assets/`** - Enhanced directory analysis of assets
+- **`hooks/`** - Enhanced directory analysis of hooks
+- **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
 - **`types/`** - Enhanced directory analysis of types
-- **`utils/`** - Enhanced directory analysis of utils
+- **`utils3/`** - Enhanced directory analysis of utils3
 
 ## ⚙️ Configuration
 
@@ -108,8 +113,10 @@ For detailed API documentation, see the README files in each directory:
 
 - [`assets/` API Documentation](./assets/README.md)
 - [`hooks/` API Documentation](./hooks/README.md)
+- [`public/` API Documentation](./public/README.md)
+- [`src/` API Documentation](./src/README.md)
 - [`types/` API Documentation](./types/README.md)
-- [`utils/` API Documentation](./utils/README.md)
+- [`utils3/` API Documentation](./utils3/README.md)
 
 ## 🤝 Contributing
 
@@ -121,7 +128,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-c11ee519-1918-4e93-bfe9-85539647775a-1750759577625
+   cd repo-ffab4d57-9a94-4b70-b92f-964e8795dff3-1759918270558
    ```
 3. **Create a feature branch**:
    ```bash

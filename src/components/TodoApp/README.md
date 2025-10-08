@@ -1,10 +1,10 @@
-# 📁 hooks
+# 📁 TodoApp
 
-> Enhanced directory analysis of hooks
+> Enhanced directory analysis of TodoApp
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of hooks
+Enhanced directory analysis of TodoApp
 
 **📊 Directory Statistics:**
 - **Files:** 1 TypeScript 5.4 files
@@ -14,35 +14,39 @@ Enhanced directory analysis of hooks
 ## 🗂 Directory Structure
 
 ```
-hooks/
-└── 📄 hooks/useTodos.ts (91 lines)
+TodoApp/
+└── 📄 src/components/TodoApp/TodoApp.tsx (88 lines)
 ```
 
 ## 🎯 Files in this Directory
 
-### 📄 `hooks/useTodos.ts`
+### 📄 `src/components/TodoApp/TodoApp.tsx`
 **File Information:**
 - **Language:** TypeScript 5.4
-- **Lines of Code:** 91
+- **Lines of Code:** 88
 
 **Code Elements:**
 
 #### ⚙️ Functions (1)
-- **`useTodos()`** - const useTodos = () =>
+- **`TodoApp()`** - const TodoApp = () =>
 
-#### 📥 Imports (3)
-- `useState`
-- `Todo`
-- `generateId`
+#### 📥 Imports (7)
+- `useTodos`
+- `calculateStats`
+- `TodoInput`
+- `TodoFilters`
+- `TodoStats`
+- `TodoList`
+- `./TodoApp.css`
 
 #### 📤 Exports (1)
-- `useTodos`
+- `TodoApp`
 
 #### 💻 Usage Example
 ```ts
 // Import and use functions
-const { useTodos } = require('./useTodos.ts');
-const result = useTodos();
+const { TodoApp } = require('./TodoApp.tsx');
+const result = TodoApp();
 console.log(result);
 ```
 
@@ -53,7 +57,7 @@ console.log(result);
 ### Functions
 | Function | File | Description |
 |----------|------|-------------|
-| `useTodos()` | `hooks/useTodos.ts` | useTodos function implementation |
+| `TodoApp()` | `src/components/TodoApp/TodoApp.tsx` | TodoApp function implementation |
 
 ---
 
