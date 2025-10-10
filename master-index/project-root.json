@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-10-10T10:41:23.118Z",
+  "generatedAt": "2025-10-10T10:43:35.282Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -94,6 +94,12 @@
       }
     ],
     "subdirectories": [
+      {
+        "name": "master-index",
+        "relativePath": "master-index",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of master-index",
+        "keyElementsFromChild": []
+      },
       {
         "name": "public",
         "relativePath": "public",
