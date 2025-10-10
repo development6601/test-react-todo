@@ -1,14 +1,15 @@
 # 📁 src
 
-> The `src` directory houses the source code for a temporary Todo application project, including components, hooks, types, utility functions, and asset files.
+> Enhanced directory analysis of src
 
 ## 📋 Directory Overview
 
-The `src` directory houses the source code for a temporary Todo application project, including components, hooks, types, utility functions, and asset files.
+Enhanced directory analysis of src
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/23/2025
+- **Files:** 3 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/10/2025
 
 ## 🗂 Directory Structure
 
@@ -18,25 +19,88 @@ src/
 ├── 📁 components/
 ├── 📁 hooks/
 ├── 📁 types/
-└── 📁 utils/
+├── 📁 utils/
+├── 📄 src/vite-env.d.ts (2 lines)
+├── 📄 src/main.tsx (11 lines)
+└── 📄 src/App.tsx (9 lines)
 ```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/vite-env.d.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 2
+
+**Code Elements:**
+
+---
+
+### 📄 `src/main.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 11
+
+**Code Elements:**
+
+#### 📥 Imports (4)
+- `StrictMode`
+- `createRoot`
+- `./index.css`
+- `App`
+
+---
+
+### 📄 `src/App.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 9
+
+**Code Elements:**
+
+#### ⚙️ Functions (1)
+- **`App()`** - function App()
+
+#### 📥 Imports (2)
+- `TodoApp`
+- `./App.css`
+
+#### 📤 Exports (1)
+- `default`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { App } = require('./App.tsx');
+const result = App();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `App()` | `src/App.tsx` | App function implementation |
 
 ## 📁 Subdirectories
 
 ### `assets/`
-The `src\assets` directory stores the asset files used by the project's source code.
+Enhanced directory analysis of assets
 
 ### `components/`
-This directory, `src\components`, houses the individual source code components for a Todo application, including input, item display, filtering, list management, and statistics.
+Enhanced directory analysis of components
 
 ### `hooks/`
-The `src\hooks` directory stores the React hook source code for a temporary project repository.
+Enhanced directory analysis of hooks
 
 ### `types/`
-The `src\types` directory stores the type definitions for a project's source code.
+Enhanced directory analysis of types
 
 ### `utils/`
-The `src\utils` directory contains utility functions and resources used by the project residing in the temporary repository `repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431`.
+Enhanced directory analysis of utils
 
 ---
 

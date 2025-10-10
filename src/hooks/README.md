@@ -1,14 +1,59 @@
 # 📁 hooks
 
-> The `src\hooks` directory stores the React hook source code for a temporary project repository.
+> Enhanced directory analysis of hooks
 
 ## 📋 Directory Overview
 
-The `src\hooks` directory stores the React hook source code for a temporary project repository.
+Enhanced directory analysis of hooks
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/23/2025
+- **Files:** 1 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/10/2025
+
+## 🗂 Directory Structure
+
+```
+hooks/
+└── 📄 src/hooks/useTodos.ts (91 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/hooks/useTodos.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 91
+
+**Code Elements:**
+
+#### ⚙️ Functions (1)
+- **`useTodos()`** - const useTodos = () =>
+
+#### 📥 Imports (3)
+- `useState`
+- `Todo`
+- `generateId`
+
+#### 📤 Exports (1)
+- `useTodos`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { useTodos } = require('./useTodos.ts');
+const result = useTodos();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `useTodos()` | `src/hooks/useTodos.ts` | useTodos function implementation |
 
 ---
 

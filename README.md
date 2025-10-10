@@ -1,11 +1,11 @@
-# 🚀 repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431
+# 🚀 workspace
 
-> This temporary directory stores source code for a Todo application and publicly accessible files related to the project.
+> Enhanced directory analysis of workspace
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-6/23/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-10/10/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,7 +20,7 @@
 
 ## 📖 Description
 
-This temporary directory stores source code for a Todo application and publicly accessible files related to the project.
+Enhanced directory analysis of workspace
 
 This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code.
 
@@ -38,7 +38,7 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431
+cd workspace
 
 # Run the main application
 node src/index.js
@@ -75,7 +75,8 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431/
+workspace/
+├── 📁 master-index/
 ├── 📁 public/
 └── 📁 src/ # Main source code
 ├── 📄 README.md          # This file
@@ -84,8 +85,9 @@ repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431/
 
 ### Directory Overview
 
-- **`public/`** - The `public` directory temporarily stores publicly accessible files related to a project (likely a web application or similar)
-- **`src/`** - The `src` directory houses the source code for a temporary Todo application project, including components, hooks, types, utility functions, and asset files
+- **`master-index/`** - Enhanced directory analysis of master-index
+- **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
 
 ## ⚙️ Configuration
 
@@ -102,6 +104,7 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
+- [`master-index/` API Documentation](./master-index/README.md)
 - [`public/` API Documentation](./public/README.md)
 - [`src/` API Documentation](./src/README.md)
 
@@ -115,7 +118,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431
+   cd workspace
    ```
 3. **Create a feature branch**:
    ```bash

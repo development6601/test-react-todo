@@ -1,14 +1,43 @@
 # 📁 utils
 
-> The `src\utils` directory contains utility functions and resources used by the project residing in the temporary repository `repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431`.
+> Enhanced directory analysis of utils
 
 ## 📋 Directory Overview
 
-The `src\utils` directory contains utility functions and resources used by the project residing in the temporary repository `repo-b05c64d6-54f2-45a0-b03e-fda55ff0685d-1750682884431`.
+Enhanced directory analysis of utils
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/23/2025
+- **Files:** 1 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/10/2025
+
+## 🗂 Directory Structure
+
+```
+utils/
+└── 📄 src/utils/todoUtils.ts (47 lines)
+```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/utils/todoUtils.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 47
+
+**Code Elements:**
+
+#### 📥 Imports (1)
+- `Todo`
+
+#### 📤 Exports (5)
+- `generateId`
+- `filterTodos`
+- `sortTodos`
+- `calculateStats`
+- `getUniqueCategories`
+
+---
 
 ---
 
