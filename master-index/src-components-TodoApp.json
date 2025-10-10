@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-10-10T10:41:21.798Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "TodoApp",
+      "path": "src/components/TodoApp",
+      "purpose": "Enhanced directory analysis of TodoApp",
+      "ownKeyElements": []
+    },
+    "files": [
+      {
+        "name": "TodoApp.tsx",
+        "path": "src/components/TodoApp/TodoApp.tsx",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 88,
+        "placeholderDetection": [
+          {
+            "filePath": "/workspace/src/components/TodoApp/TodoApp.tsx",
+            "functionName": "TodoApp",
+            "classification": "likely-placeholder",
+            "confidence": 76,
+            "isPlaceholder": true,
+            "reasons": [
+              "Contains explicit placeholder marker: \"Todo\"",
+              "Low cyclomatic complexity (1)",
+              "Function takes no parameters",
+              "High context score suggests legitimate implementation"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 85,
+              "namingPatterns": 0,
+              "astAnalysis": 16,
+              "commentAnalysis": 0,
+              "contextFilter": -25,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          }
+        ],
+        "importedModules": [
+          {
+            "name": "useTodos",
+            "sourceModule": "../../hooks/useTodos",
+            "isDefault": false,
+            "namedImports": [
+              "useTodos"
+            ]
+          },
+          {
+            "name": "calculateStats",
+            "sourceModule": "../../utils/todoUtils",
+            "isDefault": false,
+            "namedImports": [
+              "calculateStats",
+              "getUniqueCategories"
+            ]
+          },
+          {
+            "name": "TodoInput",
+            "sourceModule": "../TodoInput/TodoInput",
+            "isDefault": false,
+            "namedImports": [
+              "TodoInput"
+            ]
+          },
+          {
+            "name": "TodoFilters",
+            "sourceModule": "../TodoFilters/TodoFilters",
+            "isDefault": false,
+            "namedImports": [
+              "TodoFilters"
+            ]
+          },
+          {
+            "name": "TodoStats",
+            "sourceModule": "../TodoStats/TodoStats",
+            "isDefault": false,
+            "namedImports": [
+              "TodoStats"
+            ]
+          },
+          {
+            "name": "TodoList",
+            "sourceModule": "../TodoList/TodoList",
+            "isDefault": false,
+            "namedImports": [
+              "TodoList"
+            ]
+          },
+          {
+            "name": "./TodoApp.css",
+            "sourceModule": "./TodoApp.css",
+            "isDefault": false
+          }
+        ],
+        "exportedElements": [
+          {
+            "name": "TodoApp",
+            "type": "const"
+          }
+        ],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": [
+          {
+            "name": "TodoApp",
+            "type": "function",
+            "signature": "const TodoApp = () =>"
+          },
+          {
+            "name": "T",
+            "type": "const",
+            "signature": "const T"
+          }
+        ]
+      }
+    ],
+    "subdirectories": []
+  }
+}
