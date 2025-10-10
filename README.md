@@ -1,11 +1,11 @@
-# 🚀 repo-ce2e1fe2-fec8-48be-a4fc-895ded77bcbf-1750742209107
+# 🚀 workspace
 
-> Enhanced directory analysis of repo-ce2e1fe2-fec8-48be-a4fc-895ded77bcbf-1750742209107
+> Enhanced directory analysis of workspace
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-6/24/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-10/10/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,13 +20,14 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-ce2e1fe2-fec8-48be-a4fc-895ded77bcbf-1750742209107
+Enhanced directory analysis of workspace
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
 
@@ -37,10 +38,10 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-ce2e1fe2-fec8-48be-a4fc-895ded77bcbf-1750742209107
+cd workspace
 
 # Run the main application
-node index.js
+node src/index.js
 ```
 
 ## 📦 Installation
@@ -65,7 +66,7 @@ npm install
 
 ```javascript
 // Import the main module
-const main = require('./index.js');
+const main = require('./src/index.js');
 
 // Run the application
 main();
@@ -74,15 +75,19 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-ce2e1fe2-fec8-48be-a4fc-895ded77bcbf-1750742209107/
-└── 📁 public/
+workspace/
+├── 📁 master-index/
+├── 📁 public/
+└── 📁 src/ # Main source code
 ├── 📄 README.md          # This file
 └── 📄 package.json       # Project configuration
 ```
 
 ### Directory Overview
 
+- **`master-index/`** - Enhanced directory analysis of master-index
 - **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
 
 ## ⚙️ Configuration
 
@@ -99,7 +104,9 @@ No environment variables are required for basic functionality.
 
 For detailed API documentation, see the README files in each directory:
 
+- [`master-index/` API Documentation](./master-index/README.md)
 - [`public/` API Documentation](./public/README.md)
+- [`src/` API Documentation](./src/README.md)
 
 ## 🤝 Contributing
 
@@ -111,7 +118,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-ce2e1fe2-fec8-48be-a4fc-895ded77bcbf-1750742209107
+   cd workspace
    ```
 3. **Create a feature branch**:
    ```bash

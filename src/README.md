@@ -1,14 +1,15 @@
 # 📁 src
 
-> The `src` directory houses the source code for a temporary React to-do application, including components, custom hooks, type definitions, utility functions, and asset files.
+> Enhanced directory analysis of src
 
 ## 📋 Directory Overview
 
-The `src` directory houses the source code for a temporary React to-do application, including components, custom hooks, type definitions, utility functions, and asset files.
+Enhanced directory analysis of src
 
 **📊 Directory Statistics:**
-- **Files:** 0 JavaScript files
-- **Last Updated:** 6/23/2025
+- **Files:** 3 TypeScript 5.4 files
+- **Languages:** TypeScript 5.4
+- **Last Updated:** 10/10/2025
 
 ## 🗂 Directory Structure
 
@@ -18,25 +19,88 @@ src/
 ├── 📁 components/
 ├── 📁 hooks/
 ├── 📁 types/
-└── 📁 utils/
+├── 📁 utils/
+├── 📄 src/vite-env.d.ts (2 lines)
+├── 📄 src/main.tsx (11 lines)
+└── 📄 src/App.tsx (9 lines)
 ```
+
+## 🎯 Files in this Directory
+
+### 📄 `src/vite-env.d.ts`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 2
+
+**Code Elements:**
+
+---
+
+### 📄 `src/main.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 11
+
+**Code Elements:**
+
+#### 📥 Imports (4)
+- `StrictMode`
+- `createRoot`
+- `./index.css`
+- `App`
+
+---
+
+### 📄 `src/App.tsx`
+**File Information:**
+- **Language:** TypeScript 5.4
+- **Lines of Code:** 9
+
+**Code Elements:**
+
+#### ⚙️ Functions (1)
+- **`App()`** - function App()
+
+#### 📥 Imports (2)
+- `TodoApp`
+- `./App.css`
+
+#### 📤 Exports (1)
+- `default`
+
+#### 💻 Usage Example
+```ts
+// Import and use functions
+const { App } = require('./App.tsx');
+const result = App();
+console.log(result);
+```
+
+---
+
+## 📚 API Reference Summary
+
+### Functions
+| Function | File | Description |
+|----------|------|-------------|
+| `App()` | `src/App.tsx` | App function implementation |
 
 ## 📁 Subdirectories
 
 ### `assets/`
-The directory `src\assets` stores the asset files used by a project's source code.
+Enhanced directory analysis of assets
 
 ### `components/`
-This directory, `src\components`, houses the source code for various components of a to-do application, including input, items, lists, filters, and statistics.
+Enhanced directory analysis of components
 
 ### `hooks/`
-This directory, `src\hooks`, contains the source code for custom React hooks used within a temporary project repository.
+Enhanced directory analysis of hooks
 
 ### `types/`
-The `src\types` directory stores type definitions for a project's source code.
+Enhanced directory analysis of types
 
 ### `utils/`
-The `src\utils` directory contains utility functions and supporting code for a temporary project repository.
+Enhanced directory analysis of utils
 
 ---
 

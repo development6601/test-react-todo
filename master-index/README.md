@@ -1,10 +1,10 @@
-# 📁 public
+# 📁 master-index
 
-> Enhanced directory analysis of public
+> Enhanced directory analysis of master-index
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of public
+Enhanced directory analysis of master-index
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files

@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-10-10T10:43:31.360Z",
+  "generatedAt": "2025-10-10T10:45:18.504Z",
   "configuration": {
-    "detectPlaceholders": true,
-    "placeholderConfidence": 45,
+    "detectPlaceholders": false,
+    "placeholderConfidence": 40,
     "placeholderAnalysisLevel": "enhanced",
     "detailLevel": "standard",
     "includeComplexity": false,
@@ -24,33 +24,6 @@
         "filePurpose": "TypeScript 5.4 implementation file",
         "languageDetail": "TypeScript 5.4",
         "lineCount": 45,
-        "placeholderDetection": [
-          {
-            "filePath": "/workspace/src/components/TodoList/TodoList.tsx",
-            "functionName": "TodoList",
-            "classification": "likely-placeholder",
-            "confidence": 60,
-            "isPlaceholder": true,
-            "reasons": [
-              "Contains explicit placeholder marker: \"Todo\"",
-              "High context score suggests legitimate implementation"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 85,
-              "namingPatterns": 0,
-              "astAnalysis": 0,
-              "commentAnalysis": 0,
-              "contextFilter": -25,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          }
-        ],
         "importedModules": [
           {
             "name": "Todo",
