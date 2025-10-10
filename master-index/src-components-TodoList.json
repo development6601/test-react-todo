@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-10-10T10:42:56.906Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "TodoList",
+      "path": "src/components/TodoList",
+      "purpose": "Enhanced directory analysis of TodoList",
+      "ownKeyElements": []
+    },
+    "files": [
+      {
+        "name": "TodoList.tsx",
+        "path": "src/components/TodoList/TodoList.tsx",
+        "filePurpose": "TypeScript 5.4 implementation file",
+        "languageDetail": "TypeScript 5.4",
+        "lineCount": 45,
+        "placeholderDetection": [
+          {
+            "filePath": "/workspace/src/components/TodoList/TodoList.tsx",
+            "functionName": "TodoList",
+            "classification": "likely-placeholder",
+            "confidence": 60,
+            "isPlaceholder": true,
+            "reasons": [
+              "Contains explicit placeholder marker: \"Todo\"",
+              "High context score suggests legitimate implementation"
+            ],
+            "location": {
+              "startLine": 1,
+              "endLine": 1
+            },
+            "detectionMethods": {
+              "explicitMarkers": 85,
+              "namingPatterns": 0,
+              "astAnalysis": 0,
+              "commentAnalysis": 0,
+              "contextFilter": -25,
+              "unusedCodeAnalysis": 0,
+              "externalUnusedChecks": 0,
+              "enhancedContext": 0
+            }
+          }
+        ],
+        "importedModules": [
+          {
+            "name": "Todo",
+            "sourceModule": "../../types",
+            "isDefault": false,
+            "namedImports": [
+              "Todo"
+            ]
+          },
+          {
+            "name": "TodoItem",
+            "sourceModule": "../TodoItem/TodoItem",
+            "isDefault": false,
+            "namedImports": [
+              "TodoItem"
+            ]
+          },
+          {
+            "name": "./TodoList.css",
+            "sourceModule": "./TodoList.css",
+            "isDefault": false
+          }
+        ],
+        "exportedElements": [
+          {
+            "name": "TodoList",
+            "type": "const"
+          }
+        ],
+        "functions": [],
+        "classes": [],
+        "keyElementsInFile": [
+          {
+            "name": "TodoList",
+            "type": "function",
+            "signature": "const TodoList = () =>"
+          },
+          {
+            "name": "T",
+            "type": "const",
+            "signature": "const T"
+          },
+          {
+            "name": "TodoListProps",
+            "type": "interface",
+            "signature": "interface TodoListProps"
+          }
+        ]
+      }
+    ],
+    "subdirectories": []
+  }
+}
