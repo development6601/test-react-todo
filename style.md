@@ -1,7 +1,7 @@
 # {directoryName}
 
 ## Purpose
-This directory contains styles and theme-related files for {purpose}.+++---+++
+This directory contains styles and theme-related files for {purpose}.+++---+++++
 
 ## Contents
 {fileList}
@@ -15,6 +15,7 @@ This directory contains styles and theme-related files for {purpose}.+++---+++
 ## Theme Variables
 
 {themeVariables}
+
 
 
 
