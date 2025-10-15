@@ -1,11 +1,11 @@
-# 🚀 workspace
+# 🚀 repo-ab9e3ee0-0ea8-4f9d-9518-65fcaf6fb043-1760530080823
 
-> Enhanced directory analysis of workspace
+> Enhanced directory analysis of repo-ab9e3ee0-0ea8-4f9d-9518-65fcaf6fb043-1760530080823
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-10/10/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-10/15/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,7 +20,7 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of workspace
+Enhanced directory analysis of repo-ab9e3ee0-0ea8-4f9d-9518-65fcaf6fb043-1760530080823
 
 This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files, and utility functions.
 
@@ -38,7 +38,7 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd workspace
+cd repo-ab9e3ee0-0ea8-4f9d-9518-65fcaf6fb043-1760530080823
 
 # Run the main application
 node index.js
@@ -75,7 +75,7 @@ main();
 ## 📁 Project Structure
 
 ```
-workspace/
+repo-ab9e3ee0-0ea8-4f9d-9518-65fcaf6fb043-1760530080823/
 ├── 📁 assets/
 ├── 📁 hooks/
 ├── 📁 master-index/
@@ -130,7 +130,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd workspace
+   cd repo-ab9e3ee0-0ea8-4f9d-9518-65fcaf6fb043-1760530080823
    ```
 3. **Create a feature branch**:
    ```bash
