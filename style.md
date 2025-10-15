@@ -7,7 +7,7 @@ This directory contains styles and theme-related files for {purpose}.+++---+++
 {fileList}
 
 ## Style Details
-{styleDetails}
+{styleDetails}asd
 
 ## Usageasd
 {usage}
@@ -15,6 +15,7 @@ This directory contains styles and theme-related files for {purpose}.+++---+++
 ## Theme Variables
 
 {themeVariables}
+
 
 
 
