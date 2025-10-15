@@ -9,9 +9,10 @@ This directory contains styles and theme-related files for {purpose}.+++
 ## Style Details
 {styleDetails}
 
-## Usage
+## Usageasd
 {usage}
 
 ## Theme Variables
 
 {themeVariables}
+
