@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-11-05T12:32:02.136Z",
+  "generatedAt": "2025-11-06T09:34:44.866Z",
   "configuration": {
-    "detectPlaceholders": false,
-    "placeholderConfidence": 40,
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
     "placeholderAnalysisLevel": "enhanced",
     "detailLevel": "standard",
     "includeComplexity": false,
@@ -12,9 +12,9 @@
   },
   "metadata": {
     "directory": {
-      "name": "repo-4fe1ca7b-0205-400e-af31-450619b3dca7-1762345915804",
+      "name": "workspace",
       "path": ".",
-      "purpose": "Enhanced directory analysis of repo-4fe1ca7b-0205-400e-af31-450619b3dca7-1762345915804",
+      "purpose": "Enhanced directory analysis of workspace",
       "ownKeyElements": []
     },
     "files": [
