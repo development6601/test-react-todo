@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-11-14T04:49:07.087Z",
+  "generatedAt": "2025-11-25T09:18:47.616Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -12,9 +12,9 @@
   },
   "metadata": {
     "directory": {
-      "name": "placeholder-detection-1763095744584-vkj36bdqy",
+      "name": "placeholder-detection-1764062322898-5bmdw4699",
       "path": ".",
-      "purpose": "Enhanced directory analysis of placeholder-detection-1763095744584-vkj36bdqy",
+      "purpose": "Enhanced directory analysis of placeholder-detection-1764062322898-5bmdw4699",
       "ownKeyElements": []
     },
     "files": [
