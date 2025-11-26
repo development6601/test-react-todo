@@ -1,0 +1,13 @@
+﻿---
+description: Treatment with master-index priority
+---
+
+## ignore
+**/node_modules/**
+**/dist/**
+**/*.spec.ts
+**/*.test.ts
+
+## priority
+**/master-index/**
+**/src/**

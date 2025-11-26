@@ -1,0 +1,12 @@
+﻿---
+description: Baseline without master-index priority
+---
+
+## ignore
+**/node_modules/**
+**/dist/**
+**/*.spec.ts
+**/*.test.ts
+
+## priority
+**/src/**
