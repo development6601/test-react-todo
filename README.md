@@ -1,11 +1,11 @@
-# 🚀 repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
+# 🚀 workspace
 
-> Enhanced directory analysis of repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
+> Enhanced directory analysis of workspace
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-10/8/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-12/3/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -20,7 +20,7 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
+Enhanced directory analysis of workspace
 
 This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
@@ -39,7 +39,7 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
+cd workspace
 
 # Run the main application
 node src/index.js
@@ -76,9 +76,10 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332/
+workspace/
 ├── 📁 assets/
 ├── 📁 hooks/
+├── 📁 master-index/
 ├── 📁 public/
 ├── 📁 src/ # Main source code
 ├── 📁 types/
@@ -91,6 +92,7 @@ repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332/
 
 - **`assets/`** - Enhanced directory analysis of assets
 - **`hooks/`** - Enhanced directory analysis of hooks
+- **`master-index/`** - Enhanced directory analysis of master-index
 - **`public/`** - Enhanced directory analysis of public
 - **`src/`** - Enhanced directory analysis of src
 - **`types/`** - Enhanced directory analysis of types
@@ -113,6 +115,7 @@ For detailed API documentation, see the README files in each directory:
 
 - [`assets/` API Documentation](./assets/README.md)
 - [`hooks/` API Documentation](./hooks/README.md)
+- [`master-index/` API Documentation](./master-index/README.md)
 - [`public/` API Documentation](./public/README.md)
 - [`src/` API Documentation](./src/README.md)
 - [`types/` API Documentation](./types/README.md)
@@ -128,7 +131,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-69971110-8a4a-43af-a02c-fd8a9e9bbece-1759927824332
+   cd workspace
    ```
 3. **Create a feature branch**:
    ```bash
