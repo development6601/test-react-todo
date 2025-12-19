@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-12-09T09:01:16.770Z",
+  "generatedAt": "2025-12-19T04:15:29.395Z",
   "configuration": {
-    "detectPlaceholders": true,
-    "placeholderConfidence": 45,
+    "detectPlaceholders": false,
+    "placeholderConfidence": 40,
     "placeholderAnalysisLevel": "enhanced",
     "detailLevel": "standard",
     "includeComplexity": false,
