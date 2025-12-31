@@ -27,7 +27,7 @@ This project demonstrates modern JavaScript development practices with a well-or
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
-- 📦 **Source Code Organization** - Clean source code structure in `src/` directorys
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
 - 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
