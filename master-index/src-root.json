@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-12-31T12:19:16.887Z",
+  "generatedAt": "2025-12-31T12:19:16.389Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -12,39 +12,40 @@
   },
   "metadata": {
     "directory": {
-      "name": "TodoList",
-      "path": "src-1/components/TodoList",
-      "purpose": "Enhanced directory analysis of TodoList",
+      "name": "src",
+      "path": "src",
+      "purpose": "Enhanced directory analysis of src",
       "ownKeyElements": []
     },
     "files": [
       {
-        "name": "TodoList.tsx",
-        "path": "src-1/components/TodoList/TodoList.tsx",
+        "name": "App.tsx",
+        "path": "src/App.tsx",
         "filePurpose": "TypeScript 5.4 implementation file",
         "languageDetail": "TypeScript 5.4",
-        "lineCount": 45,
+        "lineCount": 26,
         "placeholderDetection": [
           {
-            "filePath": "/workspace/src-1/components/TodoList/TodoList.tsx",
-            "functionName": "TodoList",
-            "classification": "likely-placeholder",
-            "confidence": 60,
+            "filePath": "/workspace/src/App.tsx",
+            "functionName": "App",
+            "classification": "definite-placeholder",
+            "confidence": 100,
             "isPlaceholder": true,
             "reasons": [
               "Contains explicit placeholder marker: \"Todo\"",
-              "High context score suggests legitimate implementation"
+              "Low cyclomatic complexity (1)",
+              "Function takes no parameters"
             ],
             "location": {
-              "startLine": 1,
-              "endLine": 1
+              "startLine": 4,
+              "endLine": 23
             },
             "detectionMethods": {
               "explicitMarkers": 85,
               "namingPatterns": 0,
-              "astAnalysis": 0,
+              "astAnalysis": 16,
               "commentAnalysis": 0,
-              "contextFilter": -25,
+              "contextFilter": 0,
               "unusedCodeAnalysis": 0,
               "externalUnusedChecks": 0,
               "enhancedContext": 0
@@ -53,30 +54,22 @@
         ],
         "importedModules": [
           {
-            "name": "Todo",
-            "sourceModule": "../../types",
+            "name": "TodoApp",
+            "sourceModule": "./components/TodoApp/TodoApp",
             "isDefault": false,
             "namedImports": [
-              "Todo"
+              "TodoApp"
             ]
           },
           {
-            "name": "TodoItem",
-            "sourceModule": "../TodoItem/TodoItem",
-            "isDefault": false,
-            "namedImports": [
-              "TodoItem"
-            ]
-          },
-          {
-            "name": "./TodoList.css",
-            "sourceModule": "./TodoList.css",
+            "name": "./App.css",
+            "sourceModule": "./App.css",
             "isDefault": false
           }
         ],
         "exportedElements": [
           {
-            "name": "TodoList",
+            "name": "default",
             "type": "const"
           }
         ],
@@ -84,19 +77,9 @@
         "classes": [],
         "keyElementsInFile": [
           {
-            "name": "TodoList",
+            "name": "App",
             "type": "function",
-            "signature": "const TodoList = () =>"
-          },
-          {
-            "name": "T",
-            "type": "const",
-            "signature": "const T"
-          },
-          {
-            "name": "TodoListProps",
-            "type": "interface",
-            "signature": "interface TodoListProps"
+            "signature": "function App()"
           }
         ]
       }
