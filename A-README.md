@@ -55,7 +55,7 @@ function handleConfig(config: LLMConfig) {
 }
 ```
 
-### Exported Types
+### Exported Type
 
 All core types are exported from the package, allowing you to use them in your own code:
 
