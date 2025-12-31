@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-12-31T12:12:11.468Z",
+  "generatedAt": "2025-12-31T13:13:22.252Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -26,7 +26,7 @@
         "lineCount": 69,
         "placeholderDetection": [
           {
-            "filePath": "/tmp/placeholder-detection-1767183125355-cpx2cau21/src/components/TodoStats/TodoStats.tsx",
+            "filePath": "/tmp/placeholder-detection-1767186799070-byejsa2c5/src/components/TodoStats/TodoStats.tsx",
             "functionName": "TodoStats",
             "classification": "likely-placeholder",
             "confidence": 60,
