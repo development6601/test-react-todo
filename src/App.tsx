@@ -9,6 +9,14 @@ function App() {
        <TodoApp />
        <TodoApp />
        <TodoApp />
+       <TodoApp />
+       <TodoApp />
+       <TodoApp />
+       <TodoApp />
+       <TodoApp />
+       <TodoApp />
+       <TodoApp />
+       <TodoApp />
     </div>
   )
 }
