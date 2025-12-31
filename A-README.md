@@ -34,7 +34,7 @@ console.log(response.choices[0].message.content);
 
 This package is built with TypeScript and includes comprehensive type definitions for all exported modules. Here are some of the key benefits:
 
-### Type Guards
+### Types Guards
 
 The package includes type guards to help with type narrowing:
 
