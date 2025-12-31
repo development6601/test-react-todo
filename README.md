@@ -22,11 +22,12 @@
 
 Enhanced directory analysis of workspace
 
-This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files, and utility functions.
+This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
 ### ✨ Key Features
 
 - 🏗️ **Well-Structured Architecture** - Organized codebase with clear separation of concerns
+- 📦 **Source Code Organization** - Clean source code structure in `src/` directory
 - 🛠️ **Utility Functions** - Reusable helper functions and utilities
 - 📚 **Auto-Generated Documentation** - AI-powered README generation with detailed API docs
 - 🔧 **Developer-Friendly** - Easy to understand, modify, and extend
@@ -41,7 +42,7 @@ git clone <repository-url>
 cd workspace
 
 # Run the main application
-node index.js
+node src/index.js
 ```
 
 ## 📦 Installation
@@ -66,7 +67,7 @@ npm install
 
 ```javascript
 // Import the main module
-const main = require('./index.js');
+const main = require('./src/index.js');
 
 // Run the application
 main();
@@ -80,6 +81,7 @@ workspace/
 ├── 📁 hooks/
 ├── 📁 master-index/
 ├── 📁 public/
+├── 📁 src/ # Main source code
 ├── 📁 src-1/
 ├── 📁 types/
 └── 📁 utils/ # Helper functions and utilities
@@ -93,6 +95,7 @@ workspace/
 - **`hooks/`** - Enhanced directory analysis of hooks
 - **`master-index/`** - Enhanced directory analysis of master-index
 - **`public/`** - Enhanced directory analysis of public
+- **`src/`** - Enhanced directory analysis of src
 - **`src-1/`** - Enhanced directory analysis of src-1
 - **`types/`** - Enhanced directory analysis of types
 - **`utils/`** - Enhanced directory analysis of utils
@@ -116,6 +119,7 @@ For detailed API documentation, see the README files in each directory:
 - [`hooks/` API Documentation](./hooks/README.md)
 - [`master-index/` API Documentation](./master-index/README.md)
 - [`public/` API Documentation](./public/README.md)
+- [`src/` API Documentation](./src/README.md)
 - [`src-1/` API Documentation](./src-1/README.md)
 - [`types/` API Documentation](./types/README.md)
 - [`utils/` API Documentation](./utils/README.md)
