@@ -22,7 +22,7 @@ src/
 ├── 📁 utils/
 ├── 📄 src/vite-env.d.ts (2 lines)
 ├── 📄 src/main.tsx (11 lines)
-└── 📄 src/App.tsx (9 lines)
+└── 📄 src/App.tsx (14 lines)
 ```
 
 ## 🎯 Files in this Directory
@@ -54,7 +54,7 @@ src/
 ### 📄 `src/App.tsx`
 **File Information:**
 - **Language:** TypeScript 5.4
-- **Lines of Code:** 9
+- **Lines of Code:** 14
 
 **Code Elements:**
 
