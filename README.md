@@ -20,7 +20,7 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of workspace
+Enhanced directory analysis of workspac
 
 This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes source code, and utility functions.
 
