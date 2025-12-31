@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-12-31T11:27:35.408Z",
+  "generatedAt": "2025-12-31T12:12:41.136Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -74,7 +74,7 @@
         "path": "src/App.tsx",
         "filePurpose": "TypeScript 5.4 implementation file",
         "languageDetail": "TypeScript 5.4",
-        "lineCount": 9,
+        "lineCount": 14,
         "placeholderDetection": [
           {
             "filePath": "/workspace/src/App.tsx",
@@ -85,17 +85,16 @@
             "reasons": [
               "Contains explicit placeholder marker: \"Todo\"",
               "Low cyclomatic complexity (1)",
-              "Very short function (3 lines)",
               "Function takes no parameters"
             ],
             "location": {
               "startLine": 4,
-              "endLine": 6
+              "endLine": 11
             },
             "detectionMethods": {
               "explicitMarkers": 85,
               "namingPatterns": 0,
-              "astAnalysis": 22,
+              "astAnalysis": 16,
               "commentAnalysis": 0,
               "contextFilter": 0,
               "unusedCodeAnalysis": 0,
