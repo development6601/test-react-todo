@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2025-12-31T14:12:43.162Z",
+  "generatedAt": "2026-01-06T04:56:14.213Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -77,7 +77,7 @@
         "lineCount": 9,
         "placeholderDetection": [
           {
-            "filePath": "/tmp/placeholder-detection-1767190359940-518ca982a/src-1/App.tsx",
+            "filePath": "/workspace/src-1/App.tsx",
             "functionName": "App",
             "classification": "definite-placeholder",
             "confidence": 100,
