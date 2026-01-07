@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2026-01-06T12:11:50.883Z",
+  "generatedAt": "2026-01-07T12:28:42.832Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -26,7 +26,7 @@
         "lineCount": 137,
         "placeholderDetection": [
           {
-            "filePath": "/tmp/placeholder-detection-1767701507311-cfsmb06ta/src-1/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1767788919573-87cuukw71/src-1/components/TodoItem/TodoItem.tsx",
             "functionName": "getPriorityColor",
             "classification": "definite-legitimate",
             "confidence": 0,
@@ -51,7 +51,7 @@
             }
           },
           {
-            "filePath": "/tmp/placeholder-detection-1767701507311-cfsmb06ta/src-1/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1767788919573-87cuukw71/src-1/components/TodoItem/TodoItem.tsx",
             "functionName": "handleCancel",
             "classification": "likely-placeholder",
             "confidence": 71,
@@ -78,7 +78,7 @@
             }
           },
           {
-            "filePath": "/tmp/placeholder-detection-1767701507311-cfsmb06ta/src-1/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1767788919573-87cuukw71/src-1/components/TodoItem/TodoItem.tsx",
             "functionName": "handleKeyPress",
             "classification": "definite-legitimate",
             "confidence": 0,
@@ -103,7 +103,7 @@
             }
           },
           {
-            "filePath": "/tmp/placeholder-detection-1767701507311-cfsmb06ta/src-1/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1767788919573-87cuukw71/src-1/components/TodoItem/TodoItem.tsx",
             "functionName": "handleSave",
             "classification": "uncertain",
             "confidence": 59,
@@ -129,7 +129,7 @@
             }
           },
           {
-            "filePath": "/tmp/placeholder-detection-1767701507311-cfsmb06ta/src-1/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1767788919573-87cuukw71/src-1/components/TodoItem/TodoItem.tsx",
             "functionName": "TodoItem",
             "classification": "likely-placeholder",
             "confidence": 60,
