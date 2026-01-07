@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2026-01-07T12:42:52.822Z",
+  "generatedAt": "2026-01-07T12:42:55.196Z",
   "configuration": {
-    "detectPlaceholders": true,
-    "placeholderConfidence": 45,
+    "detectPlaceholders": false,
+    "placeholderConfidence": 40,
     "placeholderAnalysisLevel": "enhanced",
     "detailLevel": "standard",
     "includeComplexity": false,
@@ -24,140 +24,6 @@
         "filePurpose": "TypeScript 5.4 implementation file",
         "languageDetail": "TypeScript 5.4",
         "lineCount": 47,
-        "placeholderDetection": [
-          {
-            "filePath": "/workspace/src-1/utils/todoUtils.ts",
-            "functionName": "calculateStats",
-            "classification": "likely-placeholder",
-            "confidence": 72,
-            "isPlaceholder": true,
-            "reasons": [
-              "Contains explicit placeholder marker: \"todo\"",
-              "Low cyclomatic complexity (1)",
-              "High context score suggests legitimate implementation"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 85,
-              "namingPatterns": 0,
-              "astAnalysis": 12,
-              "commentAnalysis": 0,
-              "contextFilter": -25,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          },
-          {
-            "filePath": "/workspace/src-1/utils/todoUtils.ts",
-            "functionName": "filterTodos",
-            "classification": "likely-placeholder",
-            "confidence": 72,
-            "isPlaceholder": true,
-            "reasons": [
-              "Contains explicit placeholder marker: \"Todo\"",
-              "Low cyclomatic complexity (1)",
-              "High context score suggests legitimate implementation"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 85,
-              "namingPatterns": 0,
-              "astAnalysis": 12,
-              "commentAnalysis": 0,
-              "contextFilter": -25,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          },
-          {
-            "filePath": "/workspace/src-1/utils/todoUtils.ts",
-            "functionName": "generateId",
-            "classification": "definite-legitimate",
-            "confidence": 0,
-            "isPlaceholder": false,
-            "reasons": [
-              "Low cyclomatic complexity (1)",
-              "Very short function (3 lines)",
-              "Function takes no parameters",
-              "Legitimate simple function pattern (getter/setter/utility); High context score suggests legitimate implementation; Returns computed value from external calls or processing",
-              "Safety cap applied: cheap heuristics only"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 0,
-              "namingPatterns": 0,
-              "astAnalysis": 22,
-              "commentAnalysis": 0,
-              "contextFilter": -67,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          },
-          {
-            "filePath": "/workspace/src-1/utils/todoUtils.ts",
-            "functionName": "getUniqueCategories",
-            "classification": "uncertain",
-            "confidence": 48,
-            "isPlaceholder": true,
-            "reasons": [
-              "Contains explicit placeholder marker: \"todo\"",
-              "Low cyclomatic complexity (1)",
-              "Very short function (4 lines)",
-              "Legitimate simple function pattern (getter/setter/utility); High context score suggests legitimate implementation"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 85,
-              "namingPatterns": 0,
-              "astAnalysis": 18,
-              "commentAnalysis": 0,
-              "contextFilter": -55,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          },
-          {
-            "filePath": "/workspace/src-1/utils/todoUtils.ts",
-            "functionName": "sortTodos",
-            "classification": "likely-placeholder",
-            "confidence": 60,
-            "isPlaceholder": true,
-            "reasons": [
-              "Contains explicit placeholder marker: \"Todo\"",
-              "High context score suggests legitimate implementation"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 85,
-              "namingPatterns": 0,
-              "astAnalysis": 0,
-              "commentAnalysis": 0,
-              "contextFilter": -25,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          }
-        ],
         "importedModules": [
           {
             "name": "Todo",
