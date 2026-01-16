@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2026-01-16T03:58:27.370Z",
+  "generatedAt": "2026-01-16T03:59:35.297Z",
   "configuration": {
-    "detectPlaceholders": true,
-    "placeholderConfidence": 45,
+    "detectPlaceholders": false,
+    "placeholderConfidence": 40,
     "placeholderAnalysisLevel": "enhanced",
     "detailLevel": "standard",
     "includeComplexity": false,
@@ -24,35 +24,6 @@
         "filePurpose": "TypeScript 5.4 implementation file",
         "languageDetail": "TypeScript 5.4",
         "lineCount": 88,
-        "placeholderDetection": [
-          {
-            "filePath": "/tmp/placeholder-detection-1768535903925-q6wi46e49/src-1/components/TodoApp/TodoApp.tsx",
-            "functionName": "TodoApp",
-            "classification": "likely-placeholder",
-            "confidence": 76,
-            "isPlaceholder": true,
-            "reasons": [
-              "Contains explicit placeholder marker: \"Todo\"",
-              "Low cyclomatic complexity (1)",
-              "Function takes no parameters",
-              "High context score suggests legitimate implementation"
-            ],
-            "location": {
-              "startLine": 1,
-              "endLine": 1
-            },
-            "detectionMethods": {
-              "explicitMarkers": 85,
-              "namingPatterns": 0,
-              "astAnalysis": 16,
-              "commentAnalysis": 0,
-              "contextFilter": -25,
-              "unusedCodeAnalysis": 0,
-              "externalUnusedChecks": 0,
-              "enhancedContext": 0
-            }
-          }
-        ],
         "importedModules": [
           {
             "name": "useTodos",
