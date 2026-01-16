@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2026-01-15T08:21:02.416Z",
+  "generatedAt": "2026-01-16T03:59:05.117Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -26,7 +26,7 @@
         "lineCount": 137,
         "placeholderDetection": [
           {
-            "filePath": "/workspace/src/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1768535942031-vk4ksffu7/src/components/TodoItem/TodoItem.tsx",
             "functionName": "getPriorityColor",
             "classification": "definite-legitimate",
             "confidence": 0,
@@ -51,7 +51,7 @@
             }
           },
           {
-            "filePath": "/workspace/src/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1768535942031-vk4ksffu7/src/components/TodoItem/TodoItem.tsx",
             "functionName": "handleCancel",
             "classification": "likely-placeholder",
             "confidence": 71,
@@ -78,7 +78,7 @@
             }
           },
           {
-            "filePath": "/workspace/src/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1768535942031-vk4ksffu7/src/components/TodoItem/TodoItem.tsx",
             "functionName": "handleKeyPress",
             "classification": "definite-legitimate",
             "confidence": 0,
@@ -103,7 +103,7 @@
             }
           },
           {
-            "filePath": "/workspace/src/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1768535942031-vk4ksffu7/src/components/TodoItem/TodoItem.tsx",
             "functionName": "handleSave",
             "classification": "uncertain",
             "confidence": 59,
@@ -129,7 +129,7 @@
             }
           },
           {
-            "filePath": "/workspace/src/components/TodoItem/TodoItem.tsx",
+            "filePath": "/tmp/placeholder-detection-1768535942031-vk4ksffu7/src/components/TodoItem/TodoItem.tsx",
             "functionName": "TodoItem",
             "classification": "likely-placeholder",
             "confidence": 60,
