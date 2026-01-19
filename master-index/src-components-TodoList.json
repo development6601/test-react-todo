@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2026-01-10T09:41:50.901Z",
+  "generatedAt": "2026-01-19T06:08:07.238Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -26,7 +26,7 @@
         "lineCount": 45,
         "placeholderDetection": [
           {
-            "filePath": "/workspace/src/components/TodoList/TodoList.tsx",
+            "filePath": "/tmp/placeholder-detection-1768802884199-bcsjxrkw6/src/components/TodoList/TodoList.tsx",
             "functionName": "TodoList",
             "classification": "likely-placeholder",
             "confidence": 60,

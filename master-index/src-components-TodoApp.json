@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
   "version": "2.1.0",
-  "generatedAt": "2026-01-10T09:41:50.575Z",
+  "generatedAt": "2026-01-19T06:08:06.997Z",
   "configuration": {
     "detectPlaceholders": true,
     "placeholderConfidence": 45,
@@ -26,7 +26,7 @@
         "lineCount": 88,
         "placeholderDetection": [
           {
-            "filePath": "/workspace/src/components/TodoApp/TodoApp.tsx",
+            "filePath": "/tmp/placeholder-detection-1768802884199-bcsjxrkw6/src/components/TodoApp/TodoApp.tsx",
             "functionName": "TodoApp",
             "classification": "likely-placeholder",
             "confidence": 76,
